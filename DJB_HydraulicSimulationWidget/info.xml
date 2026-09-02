@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget:widget xmlns:widget="http://www.netvibes.com/ns/" xmlns="http://www.w3.org/1999/xhtml" id="DJB_HydraulicSimulationWidget">
+  <widget:preferences>
+    <widget:preference name="title" type="text" label="Widget title" defaultValue="Hydraulic Simulation Widget" />
+    <widget:preference name="dataMode" type="list" label="Data mode" defaultValue="Bundled CSV">
+      <widget:option label="Bundled CSV" value="Bundled CSV" />
+      <widget:option label="PCS CSV service" value="PCS CSV service" />
+    </widget:preference>
+    <widget:preference name="defaultZone" type="text" label="Default Zone" defaultValue="ALL" />
+    <widget:preference name="cityApiMode" type="list" label="City API Mode" defaultValue="V2 with legacy fallback">
+      <widget:option label="V2 with legacy fallback" value="V2 with legacy fallback" />
+      <widget:option label="V2 only" value="V2 only" />
+    </widget:preference>
+  </widget:preferences>
+  <widget:metadata>
+    <widget:title>Hydraulic Simulation Widget</widget:title>
+    <widget:description>Dymola/FMU actual-vs-predicted comparison and scenario deviation review.</widget:description>
+    <widget:author>Dassault Systemes / Delhi Jal Board PoC</widget:author>
+    <widget:version>2.0.0-production-ready</widget:version>
+  </widget:metadata>
+  <widget:content src="index.html" />
+</widget:widget>

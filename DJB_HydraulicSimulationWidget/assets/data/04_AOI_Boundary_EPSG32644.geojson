@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "04_AOI_Boundary_EPSG32644",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32644" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sonia_Vihar_AOI", "crs": "EPSG32644", "xmin": 131602.804, "ymin": 3180202.018, "xmax": 136631.07, "ymax": 3185230.284, "area_sqkm": 25.2835 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 131602.804, 3180202.018000000156462 ], [ 136631.07, 3180202.018000000156462 ], [ 136631.07, 3185230.284 ], [ 131602.804, 3185230.284 ], [ 131602.804, 3180202.018000000156462 ] ] ] } }
+]
+}

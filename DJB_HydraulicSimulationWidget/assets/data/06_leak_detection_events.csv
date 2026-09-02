@@ -1,0 +1,81 @@
+Timestamp,Zone_ID,Network_Element_ID,Parameter,Actual_Value,Expected_Value,Deviation,Leak_Suspicion_Score,Estimated_Loss_m3_hr,Severity,Inspection_Priority,Recommended_Action
+2026-05-27 09:00:00,DMA-03,PIPE-003,Pressure,23.16,26.29,-3.12,57.3,0.0,Warning,P2,Field inspection and valve isolation test
+2026-06-05 13:00:00,DMA-01,PIPE-001,Pressure,28.75,31.97,-3.22,55.0,0.0,Warning,P2,Review sensor/operating condition
+2026-06-07 19:00:00,DMA-01,PIPE-001,Pressure,36.2,32.62,3.58,67.0,0.0,Warning,P2,Review sensor/operating condition
+2026-07-08 02:00:00,DMA-02,PIPE-002,Pressure,25.8,29.36,-3.56,53.5,0.0,Warning,P2,Review sensor/operating condition
+2026-07-12 03:00:00,DMA-03,PIPE-013,Flow,882.86,694.62,188.24,99.8,103.53,Critical,P1,Field inspection and valve isolation test
+2026-07-12 09:00:00,DMA-03,PIPE-003,Pressure,17.91,26.97,-9.06,100.0,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-12 14:00:00,DMA-03,PIPE-003,Pressure,18.72,26.54,-7.82,100.0,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-13 00:00:00,DMA-03,PIPE-003,Pressure,20.55,27.35,-6.8,100.0,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-13 02:00:00,DMA-03,PIPE-013,Flow,843.63,641.38,202.25,96.7,111.24,Critical,P1,Field inspection and valve isolation test
+2026-07-13 03:00:00,DMA-03,PIPE-013,Flow,899.87,657.57,242.3,100.0,133.27,Critical,P1,Field inspection and valve isolation test
+2026-07-13 04:00:00,DMA-03,PIPE-013,Flow,972.45,752.1,220.36,100.0,121.2,Critical,P1,Field inspection and valve isolation test
+2026-07-13 05:00:00,DMA-03,PIPE-003,Pressure,20.89,26.42,-5.53,91.9,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-13 09:00:00,DMA-03,PIPE-003,Pressure,20.61,26.93,-6.33,89.6,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-13 17:00:00,DMA-03,PIPE-003,Pressure,19.9,26.89,-6.98,96.5,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-14 00:00:00,DMA-03,PIPE-003,Pressure,18.76,27.6,-8.84,100.0,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-14 01:00:00,DMA-03,PIPE-013,Flow,904.1,660.44,243.66,100.0,134.01,Critical,P1,Field inspection and valve isolation test
+2026-07-14 03:00:00,DMA-03,PIPE-013,Flow,852.27,665.56,186.71,89.9,102.69,Critical,P1,Field inspection and valve isolation test
+2026-07-14 09:00:00,DMA-03,PIPE-003,Pressure,19.24,26.39,-7.15,99.0,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-14 15:00:00,DMA-03,PIPE-003,Pressure,19.63,27.01,-7.38,100.0,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-14 16:00:00,DMA-03,PIPE-003,Pressure,19.01,26.58,-7.57,100.0,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-14 19:00:00,DMA-03,PIPE-003,Pressure,21.4,26.48,-5.08,73.6,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-14 21:00:00,DMA-03,PIPE-003,Pressure,19.34,27.72,-8.38,100.0,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-14 23:00:00,DMA-03,PIPE-003,Pressure,21.25,27.4,-6.14,97.0,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-15 00:00:00,DMA-03,PIPE-013,Flow,866.43,637.45,228.98,100.0,125.94,Critical,P1,Field inspection and valve isolation test
+2026-07-15 01:00:00,DMA-03,PIPE-003,Pressure,20.84,26.08,-5.24,91.3,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-15 02:00:00,DMA-03,PIPE-013,Flow,852.87,618.41,234.45,100.0,128.95,Critical,P1,Field inspection and valve isolation test
+2026-07-15 03:00:00,DMA-03,PIPE-013,Flow,920.03,683.84,236.2,100.0,129.91,Critical,P1,Field inspection and valve isolation test
+2026-07-15 06:00:00,DMA-03,PIPE-003,Pressure,19.96,26.95,-6.99,96.4,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-15 09:00:00,DMA-03,PIPE-003,Pressure,20.64,26.99,-6.35,96.5,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-15 18:00:00,DMA-03,PIPE-003,Pressure,19.56,26.61,-7.05,100.0,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-15 21:00:00,DMA-03,PIPE-003,Pressure,19.38,26.33,-6.95,100.0,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-16 01:00:00,DMA-03,PIPE-013,Flow,875.8,640.58,235.23,100.0,129.38,Critical,P1,Field inspection and valve isolation test
+2026-07-16 04:00:00,DMA-03,PIPE-003,Pressure,18.93,26.3,-7.37,100.0,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-16 07:00:00,DMA-03,PIPE-003,Pressure,21.12,27.09,-5.97,83.0,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-16 08:00:00,DMA-03,PIPE-003,Pressure,20.25,26.73,-6.48,100.0,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-16 09:00:00,DMA-03,PIPE-003,Pressure,20.21,26.75,-6.54,100.0,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-17 03:00:00,DMA-03,PIPE-003,Pressure,20.27,26.9,-6.63,99.4,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-18 00:00:00,DMA-03,PIPE-003,Pressure,20.13,27.96,-7.83,100.0,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-18 04:00:00,DMA-03,PIPE-003,Pressure,20.47,26.93,-6.46,100.0,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-18 17:00:00,DMA-03,PIPE-003,Pressure,20.72,26.6,-5.88,92.7,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-18 22:00:00,DMA-03,PIPE-003,Pressure,21.92,27.05,-5.14,75.5,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-19 03:00:00,DMA-03,PIPE-003,Pressure,19.61,26.38,-6.76,92.1,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-19 07:00:00,DMA-03,PIPE-003,Pressure,20.65,27.29,-6.65,93.4,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-19 10:00:00,DMA-03,PIPE-003,Pressure,19.61,27.25,-7.64,100.0,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-19 20:00:00,DMA-03,PIPE-003,Pressure,20.03,27.07,-7.04,100.0,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-20 03:00:00,DMA-03,PIPE-003,Pressure,18.92,27.15,-8.23,100.0,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-20 09:00:00,DMA-03,PIPE-003,Pressure,18.55,26.66,-8.11,100.0,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-20 13:00:00,DMA-03,PIPE-003,Pressure,21.16,26.16,-5.0,86.9,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-20 16:00:00,DMA-03,PIPE-003,Pressure,21.24,26.75,-5.5,79.5,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-20 18:00:00,DMA-03,PIPE-003,Pressure,20.69,27.35,-6.66,94.7,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-21 00:00:00,DMA-03,PIPE-003,Pressure,17.05,26.86,-9.81,100.0,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-22 01:00:00,DMA-03,PIPE-013,Flow,884.23,671.16,213.06,100.0,117.18,Critical,P1,Field inspection and valve isolation test
+2026-07-22 09:00:00,DMA-03,PIPE-003,Pressure,20.15,26.51,-6.36,91.4,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-22 14:00:00,DMA-03,PIPE-003,Pressure,18.7,26.56,-7.86,100.0,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-22 22:00:00,DMA-03,PIPE-003,Pressure,18.38,26.99,-8.61,100.0,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-22 23:00:00,DMA-03,PIPE-003,Pressure,21.65,27.86,-6.21,98.4,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-23 00:00:00,DMA-03,PIPE-003,Pressure,19.7,27.0,-7.31,99.3,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-23 06:00:00,DMA-03,PIPE-003,Pressure,20.76,26.66,-5.9,81.8,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-23 11:00:00,DMA-03,PIPE-003,Pressure,20.58,27.1,-6.52,99.2,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-23 16:00:00,DMA-03,PIPE-003,Pressure,20.92,26.25,-5.33,88.2,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-23 17:00:00,DMA-03,PIPE-003,Pressure,21.86,27.1,-5.24,74.9,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-23 19:00:00,DMA-03,PIPE-003,Pressure,20.55,26.17,-5.62,79.9,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-23 23:00:00,DMA-03,PIPE-003,Pressure,21.85,27.76,-5.92,99.7,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-24 00:00:00,DMA-03,PIPE-013,Flow,901.56,650.07,251.49,100.0,138.32,Critical,P1,Field inspection and valve isolation test
+2026-07-24 02:00:00,DMA-03,PIPE-003,Pressure,22.56,27.99,-5.43,85.3,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-24 02:00:00,DMA-03,PIPE-013,Flow,901.22,685.96,215.27,98.8,118.4,Critical,P1,Field inspection and valve isolation test
+2026-07-24 03:00:00,DMA-03,PIPE-003,Pressure,19.37,27.51,-8.14,100.0,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-24 03:00:00,DMA-03,PIPE-013,Flow,964.11,699.66,264.45,100.0,145.45,Critical,P1,Field inspection and valve isolation test
+2026-07-24 07:00:00,DMA-03,PIPE-003,Pressure,20.58,26.97,-6.4,89.0,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-24 11:00:00,DMA-03,PIPE-003,Pressure,19.82,26.23,-6.41,94.5,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-24 12:00:00,DMA-03,PIPE-003,Pressure,20.0,26.4,-6.4,96.0,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-25 11:00:00,DMA-03,PIPE-003,Pressure,20.4,26.43,-6.03,82.7,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-25 14:00:00,DMA-03,PIPE-003,Pressure,19.91,26.65,-6.74,100.0,0.0,Critical,P1,Field inspection and valve isolation test
+2026-07-25 20:00:00,DMA-03,PIPE-003,Pressure,20.66,27.12,-6.46,92.1,0.0,Critical,P1,Field inspection and valve isolation test
+2026-08-13 03:00:00,DMA-01,PIPE-001,Pressure,26.69,31.95,-5.26,91.6,0.0,Critical,P1,Review sensor/operating condition
+2026-08-13 10:00:00,DMA-01,PIPE-001,Pressure,28.31,32.31,-3.99,62.3,0.0,Warning,P2,Review sensor/operating condition
+2026-08-13 12:00:00,DMA-01,PIPE-001,Pressure,26.72,30.8,-4.08,67.0,0.0,Warning,P2,Review sensor/operating condition
+2026-08-14 03:00:00,DMA-01,PIPE-001,Pressure,27.29,32.25,-4.95,85.0,0.0,Warning,P2,Review sensor/operating condition
+2026-08-14 18:00:00,DMA-01,PIPE-001,Pressure,25.5,31.65,-6.15,100.0,0.0,Critical,P1,Review sensor/operating condition
+2026-08-14 22:00:00,DMA-01,PIPE-001,Pressure,27.88,32.34,-4.46,69.6,0.0,Warning,P2,Review sensor/operating condition

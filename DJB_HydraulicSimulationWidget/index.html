@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:widget="http://www.netvibes.com/ns/">
+<head>
+  <title>Hydraulic Simulation Widget</title>
+  <meta name="author" content="Dassault Systemes / DJB PoC" />
+  <meta name="description" content="Dymola/FMU actual-vs-predicted comparison and scenario deviation review." />
+  <meta name="debugMode" content="false" />
+  <meta name="strictMode" content="false" />
+  <link rel="stylesheet" type="text/css" href="https://uwa.netvibes.com/lib/c/UWA/assets/css/standalone.css" />
+  <script type="text/javascript" src="https://uwa.netvibes.com/lib/c/UWA/js/UWA_Standalone_Alone.js"></script>
+  <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
+  <script type="text/javascript">
+    window.DJB_WIDGET_CONFIG = {"widgetId": "DJB_HydraulicSimulationWidget", "mode": "hydraulic", "title": "Hydraulic Simulation Widget", "description": "Dymola/FMU actual-vs-predicted comparison and scenario deviation review.", "files": ["02_semantic_mapping.csv", "08_hydraulic_simulation_actual_vs_predicted.csv", "09_alert_log.csv", "10_widget_demo_scenarios.csv", "11_threshold_config.csv", "12_red_flags_catalog.csv"], "aoi": {"crs": "EPSG:32644", "xmin": 131602.804, "ymin": 3180202.018, "xmax": 136631.07, "ymax": 3185230.284, "bbox4326": {"south": 28.696644, "west": 77.228493, "north": 28.743358, "east": 77.281486}}};
+    require.config({ paths: { 'Widget': '.', 'Modules': './modules' } });
+    require(['Widget/Main'], function(Main) {
+      widget.addEvent('onLoad', Main.onLoad);
+      widget.addEvent('onResize', Main.onResize);
+      widget.addEvent('onViewChange', Main.onViewChange);
+      widget.addEvent('onEdit', Main.onEdit);
+      widget.addEvent('onRefresh', Main.onRefresh);
+      widget.addEvent('endEdit', Main.endEdit);
+    });
+  </script>
+</head>
+<body></body>
+</html>

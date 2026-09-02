@@ -1,0 +1,103 @@
+{
+  "package_name": "DJB Sonia Vihar Synthetic 2D Pipeline GIS Layers",
+  "description": "Synthetic 2D pipeline, asset/sensor, DMA and AOI layers synchronized with DJB Sonia Vihar PoC telemetry IDs. For proof-of-concept demonstration only.",
+  "target_crs": "EPSG:32644",
+  "source_crs_for_asset_coordinates": "EPSG:4326",
+  "referential_bounds_epsg32644": {
+    "xmin": 131602.804,
+    "ymin": 3180202.018,
+    "xmax": 136631.07,
+    "ymax": 3185230.284,
+    "width_m": 5028.266000000003,
+    "height_m": 5028.265999999829,
+    "area_sqkm": 25.283458966755155
+  },
+  "approx_bounds_epsg4326": {
+    "west": 77.23012045164896,
+    "south": 28.69664365772548,
+    "east": 77.27988088214737,
+    "north": 28.743357746622227
+  },
+  "raster_metadata": {
+    "dtm": {
+      "path": "Sonia_Vihar_DTM_30m_Float32_EPSG32644.tif",
+      "crs": "EPSG:32644",
+      "bounds": {
+        "xmin": 131580.0,
+        "ymin": 3180180.0,
+        "xmax": 136650.0,
+        "ymax": 3185250.0
+      },
+      "resolution": [
+        30.0,
+        30.0
+      ],
+      "width": 169,
+      "height": 169,
+      "band_count": 1,
+      "dtype": [
+        "float32"
+      ]
+    },
+    "ortho": {
+      "path": "Sonia_Vihar_3DEXPERIENCE_City_10m_Ortho.tif",
+      "crs": "EPSG:32644",
+      "bounds": {
+        "xmin": 131600.0,
+        "ymin": 3180200.0,
+        "xmax": 136640.0,
+        "ymax": 3185240.0
+      },
+      "resolution": [
+        10.0,
+        10.0
+      ],
+      "width": 504,
+      "height": 504,
+      "band_count": 4,
+      "dtype": [
+        "float32",
+        "float32",
+        "float32",
+        "float32"
+      ]
+    }
+  },
+  "layer_files": {
+    "pipeline_network": "01_DJB_Pipeline_Network_2D_EPSG32644.shp / .geojson",
+    "assets_sensors_valves_pumps": "02_DJB_Assets_Sensors_Valves_Pumps_EPSG32644.shp / .geojson",
+    "dma_zones": "03_DJB_DMA_Zones_EPSG32644.shp / .geojson",
+    "aoi_boundary": "04_AOI_Boundary_EPSG32644.shp / .geojson"
+  },
+  "synthetic_id_sync": {
+    "pipe_fields": [
+      "pipe_id",
+      "net_elem",
+      "gis_id"
+    ],
+    "sensor_fields": [
+      "sensor_pt",
+      "sensor_ft",
+      "sensor_id"
+    ],
+    "asset_fields": [
+      "pump_id",
+      "valve_id",
+      "res_id"
+    ],
+    "telemetry_join_keys": [
+      "Sensor_ID",
+      "Asset_ID",
+      "Network_Element_ID",
+      "Zone_ID"
+    ]
+  },
+  "red_flags_encoded": [
+    "DMA-03 leak suspicion / PIPE-013 branch",
+    "DMA-05 water quality issue / WQS-005",
+    "DMA-04 low reservoir / RES-004",
+    "DMA-02 pump issue / PUMP-002",
+    "DMA-06 missing telemetry",
+    "DMA-01 hydraulic deviation"
+  ]
+}
