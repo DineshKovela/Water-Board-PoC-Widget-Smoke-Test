@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>DJB 3DEXPERIENCE City Widgets - Vercel Smoke Index</title>
+  <style>
+    body{font-family:Arial,Helvetica,sans-serif;margin:0;background:#f7f8fa;color:#202124}
+    .wrap{max-width:1000px;margin:40px auto;padding:24px}
+    .card{background:white;border:1px solid #e2e5ea;border-radius:14px;padding:22px;box-shadow:0 3px 12px rgba(0,0,0,.05)}
+    h1{margin:0 0 8px;font-size:26px}.muted{color:#5f6368;line-height:1.5}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px;margin-top:24px}
+    a.widget{display:block;background:#fff;border:1px solid #dfe3ea;border-radius:12px;padding:16px;text-decoration:none;color:#202124}
+    a.widget:hover{border-color:#1a73e8;box-shadow:0 2px 10px rgba(26,115,232,.12)}
+    .name{font-weight:700;margin-bottom:6px}.path{font-family:Consolas,monospace;font-size:12px;color:#5f6368;word-break:break-all}
+    .note{margin-top:22px;padding:14px;border-radius:10px;background:#fff8df;border:1px solid #f2d57e;font-size:14px;line-height:1.55}
+    code{background:#eef1f5;padding:2px 5px;border-radius:4px}
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <section class="card">
+      <h1>DJB 3DEXPERIENCE City Widgets</h1>
+      <p class="muted">This root page confirms that Vercel deployed the static widget package correctly. Open a widget URL below for smoke testing, then register the same widget URL inside 3DEXPERIENCE Dashboard / Web App.</p>
+      <div class="grid">
+        <a class="widget" href="./DJB_GeographicNetworkViewer/index.html"><div class="name">Geographic Network Viewer</div><div class="path">/DJB_GeographicNetworkViewer/index.html</div></a>
+        <a class="widget" href="./DJB_NetworkOperationsDashboard/index.html"><div class="name">Network Operations Dashboard</div><div class="path">/DJB_NetworkOperationsDashboard/index.html</div></a>
+        <a class="widget" href="./DJB_NRWAnalysisWidget/index.html"><div class="name">NRW Analysis Widget</div><div class="path">/DJB_NRWAnalysisWidget/index.html</div></a>
+        <a class="widget" href="./DJB_LeakDetectionWidget/index.html"><div class="name">Leak Detection Widget</div><div class="path">/DJB_LeakDetectionWidget/index.html</div></a>
+        <a class="widget" href="./DJB_WaterQualityMonitoringWidget/index.html"><div class="name">Water Quality Monitoring Widget</div><div class="path">/DJB_WaterQualityMonitoringWidget/index.html</div></a>
+        <a class="widget" href="./DJB_HydraulicSimulationWidget/index.html"><div class="name">Hydraulic Simulation Widget</div><div class="path">/DJB_HydraulicSimulationWidget/index.html</div></a>
+        <a class="widget" href="./DJB_GeospatialLayerGovernanceWidget/index.html"><div class="name">Geospatial Layer Governance Widget</div><div class="path">/DJB_GeospatialLayerGovernanceWidget/index.html</div></a>
+        <a class="widget" href="./DJB_AssetTelemetrySyncWidget/index.html"><div class="name">Asset Telemetry Sync Widget</div><div class="path">/DJB_AssetTelemetrySyncWidget/index.html</div></a>
+      </div>
+      <div class="note">
+        <b>Smoke-test rule:</b> Vercel can confirm that the widget files and CSVs are hosted. Full City interaction will work only when the same URL is opened inside a 3DEXPERIENCE Dashboard tab containing the Geospatial Design / City widget, because <code>DS/PlatformAPI/PlatformAPI</code> and <code>3DEXPERIENCity.*</code> topics are supplied by the platform runtime.
+      </div>
+    </section>
+  </main>
+</body>
+</html>
