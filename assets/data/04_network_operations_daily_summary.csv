@@ -1,0 +1,553 @@
+Date,Zone_ID,Zone_Name,Avg_Pressure_mH2O,Avg_Flow_m3_hr,Avg_Reservoir_Level_m,Pump_Uptime_pct,Valve_Open_pct,Active_Alerts,Critical_Alerts,Missing_Readings,Overall_Status
+2026-05-27,DMA-01,Sonia Vihar North,32.15,848.79,5.4,100.0,100.0,0,0,0,Normal
+2026-05-27,DMA-02,Sonia Vihar Central,28.95,929.47,5.6,100.0,100.0,0,0,0,Normal
+2026-05-27,DMA-03,Bhagirathi Corridor,27.14,786.71,5.81,100.0,100.0,0,0,0,Normal
+2026-05-27,DMA-04,Yamuna Bank Pocket,25.09,648.54,6.01,100.0,100.0,1,0,0,Warning
+2026-05-27,DMA-05,Wazirabad Link,30.11,720.86,6.2,95.8,100.0,1,0,0,Warning
+2026-05-27,DMA-06,Sangam Extension,30.86,687.88,6.42,100.0,100.0,0,0,0,Normal
+2026-05-28,DMA-01,Sonia Vihar North,32.02,849.79,5.37,100.0,100.0,0,0,0,Normal
+2026-05-28,DMA-02,Sonia Vihar Central,29.18,944.22,5.58,100.0,100.0,0,0,0,Normal
+2026-05-28,DMA-03,Bhagirathi Corridor,26.94,786.62,5.83,100.0,100.0,0,0,0,Normal
+2026-05-28,DMA-04,Yamuna Bank Pocket,24.68,653.11,5.99,100.0,100.0,5,0,0,Warning
+2026-05-28,DMA-05,Wazirabad Link,29.84,725.66,6.19,100.0,100.0,0,0,0,Normal
+2026-05-28,DMA-06,Sangam Extension,31.02,681.79,6.4,100.0,100.0,0,0,0,Normal
+2026-05-29,DMA-01,Sonia Vihar North,32.21,850.57,5.38,100.0,100.0,0,0,0,Normal
+2026-05-29,DMA-02,Sonia Vihar Central,28.86,921.54,5.59,100.0,100.0,0,0,0,Normal
+2026-05-29,DMA-03,Bhagirathi Corridor,26.61,792.64,5.78,95.8,100.0,1,0,0,Warning
+2026-05-29,DMA-04,Yamuna Bank Pocket,25.04,652.03,6.0,100.0,100.0,4,0,0,Warning
+2026-05-29,DMA-05,Wazirabad Link,30.14,716.97,6.2,95.8,100.0,1,0,0,Warning
+2026-05-29,DMA-06,Sangam Extension,30.68,679.36,6.4,100.0,100.0,0,0,0,Normal
+2026-05-30,DMA-01,Sonia Vihar North,31.72,841.57,5.41,100.0,100.0,0,0,0,Normal
+2026-05-30,DMA-02,Sonia Vihar Central,29.11,924.86,5.59,100.0,100.0,0,0,0,Normal
+2026-05-30,DMA-03,Bhagirathi Corridor,26.97,772.31,5.77,100.0,100.0,0,0,0,Normal
+2026-05-30,DMA-04,Yamuna Bank Pocket,24.95,646.97,6.0,100.0,100.0,4,0,0,Warning
+2026-05-30,DMA-05,Wazirabad Link,29.79,712.1,6.18,100.0,100.0,0,0,0,Normal
+2026-05-30,DMA-06,Sangam Extension,31.3,676.11,6.39,100.0,100.0,0,0,0,Normal
+2026-05-31,DMA-01,Sonia Vihar North,32.15,838.02,5.39,100.0,100.0,0,0,0,Normal
+2026-05-31,DMA-02,Sonia Vihar Central,29.43,932.24,5.6,100.0,100.0,0,0,0,Normal
+2026-05-31,DMA-03,Bhagirathi Corridor,27.18,777.86,5.78,100.0,100.0,0,0,0,Normal
+2026-05-31,DMA-04,Yamuna Bank Pocket,24.87,650.61,5.98,100.0,100.0,5,0,0,Warning
+2026-05-31,DMA-05,Wazirabad Link,30.09,718.69,6.18,100.0,100.0,0,0,0,Normal
+2026-05-31,DMA-06,Sangam Extension,31.03,678.25,6.41,100.0,100.0,0,0,0,Normal
+2026-06-01,DMA-01,Sonia Vihar North,31.82,841.66,5.41,100.0,100.0,0,0,0,Normal
+2026-06-01,DMA-02,Sonia Vihar Central,28.62,931.65,5.62,100.0,100.0,0,0,0,Normal
+2026-06-01,DMA-03,Bhagirathi Corridor,27.05,776.92,5.79,100.0,100.0,0,0,0,Normal
+2026-06-01,DMA-04,Yamuna Bank Pocket,24.87,655.24,6.01,100.0,100.0,6,0,0,Warning
+2026-06-01,DMA-05,Wazirabad Link,29.9,712.3,6.17,100.0,100.0,0,0,0,Normal
+2026-06-01,DMA-06,Sangam Extension,31.12,678.88,6.39,100.0,100.0,0,0,0,Normal
+2026-06-02,DMA-01,Sonia Vihar North,32.28,850.82,5.42,100.0,100.0,0,0,0,Normal
+2026-06-02,DMA-02,Sonia Vihar Central,28.87,929.18,5.62,100.0,100.0,0,0,0,Normal
+2026-06-02,DMA-03,Bhagirathi Corridor,26.71,776.12,5.83,100.0,100.0,0,0,0,Normal
+2026-06-02,DMA-04,Yamuna Bank Pocket,25.33,639.27,6.0,100.0,100.0,3,0,0,Warning
+2026-06-02,DMA-05,Wazirabad Link,29.96,723.18,6.18,100.0,100.0,0,0,0,Normal
+2026-06-02,DMA-06,Sangam Extension,31.01,677.27,6.39,100.0,100.0,0,0,0,Normal
+2026-06-03,DMA-01,Sonia Vihar North,31.83,858.05,5.42,100.0,100.0,0,0,0,Normal
+2026-06-03,DMA-02,Sonia Vihar Central,29.18,925.57,5.6,100.0,100.0,0,0,0,Normal
+2026-06-03,DMA-03,Bhagirathi Corridor,26.94,781.69,5.8,100.0,100.0,0,0,0,Normal
+2026-06-03,DMA-04,Yamuna Bank Pocket,24.68,645.09,6.0,100.0,100.0,6,0,0,Warning
+2026-06-03,DMA-05,Wazirabad Link,30.18,720.46,6.2,100.0,100.0,0,0,0,Normal
+2026-06-03,DMA-06,Sangam Extension,31.04,683.59,6.39,100.0,100.0,0,0,0,Normal
+2026-06-04,DMA-01,Sonia Vihar North,32.4,857.22,5.4,100.0,100.0,0,0,0,Normal
+2026-06-04,DMA-02,Sonia Vihar Central,28.94,927.24,5.61,100.0,100.0,0,0,0,Normal
+2026-06-04,DMA-03,Bhagirathi Corridor,26.93,780.82,5.78,100.0,100.0,0,0,0,Normal
+2026-06-04,DMA-04,Yamuna Bank Pocket,24.72,644.77,6.0,100.0,100.0,6,0,0,Warning
+2026-06-04,DMA-05,Wazirabad Link,29.66,711.62,6.18,100.0,100.0,0,0,0,Normal
+2026-06-04,DMA-06,Sangam Extension,31.32,680.21,6.42,100.0,100.0,0,0,0,Normal
+2026-06-05,DMA-01,Sonia Vihar North,31.65,844.6,5.38,100.0,100.0,0,0,0,Normal
+2026-06-05,DMA-02,Sonia Vihar Central,28.76,933.87,5.6,100.0,100.0,0,0,0,Normal
+2026-06-05,DMA-03,Bhagirathi Corridor,26.93,768.82,5.79,100.0,100.0,1,0,0,Warning
+2026-06-05,DMA-04,Yamuna Bank Pocket,24.9,639.06,5.99,100.0,100.0,5,0,0,Warning
+2026-06-05,DMA-05,Wazirabad Link,30.24,721.6,6.22,100.0,100.0,0,0,0,Normal
+2026-06-05,DMA-06,Sangam Extension,31.26,684.5,6.4,100.0,100.0,0,0,0,Normal
+2026-06-06,DMA-01,Sonia Vihar North,32.11,848.23,5.4,100.0,100.0,0,0,0,Normal
+2026-06-06,DMA-02,Sonia Vihar Central,29.1,925.6,5.57,100.0,100.0,0,0,0,Normal
+2026-06-06,DMA-03,Bhagirathi Corridor,27.02,782.67,5.81,100.0,100.0,0,0,0,Normal
+2026-06-06,DMA-04,Yamuna Bank Pocket,25.1,651.52,5.99,100.0,100.0,4,0,0,Warning
+2026-06-06,DMA-05,Wazirabad Link,30.12,722.26,6.21,100.0,100.0,0,0,0,Normal
+2026-06-06,DMA-06,Sangam Extension,31.07,674.58,6.39,100.0,100.0,0,0,0,Normal
+2026-06-07,DMA-01,Sonia Vihar North,32.18,853.46,5.35,100.0,100.0,0,0,0,Normal
+2026-06-07,DMA-02,Sonia Vihar Central,28.72,942.25,5.6,100.0,100.0,0,0,0,Normal
+2026-06-07,DMA-03,Bhagirathi Corridor,27.11,783.52,5.79,100.0,100.0,0,0,0,Normal
+2026-06-07,DMA-04,Yamuna Bank Pocket,25.18,653.05,6.01,100.0,100.0,4,0,0,Warning
+2026-06-07,DMA-05,Wazirabad Link,30.0,719.89,6.21,100.0,100.0,0,0,0,Normal
+2026-06-07,DMA-06,Sangam Extension,31.29,677.71,6.39,100.0,100.0,0,0,0,Normal
+2026-06-08,DMA-01,Sonia Vihar North,32.48,854.55,5.39,100.0,100.0,0,0,0,Normal
+2026-06-08,DMA-02,Sonia Vihar Central,29.16,935.61,5.62,100.0,100.0,0,0,0,Normal
+2026-06-08,DMA-03,Bhagirathi Corridor,27.05,772.85,5.83,100.0,100.0,0,0,0,Normal
+2026-06-08,DMA-04,Yamuna Bank Pocket,24.8,654.51,6.0,100.0,100.0,4,0,0,Warning
+2026-06-08,DMA-05,Wazirabad Link,29.99,718.22,6.19,100.0,100.0,0,0,0,Normal
+2026-06-08,DMA-06,Sangam Extension,31.07,680.19,6.43,100.0,100.0,0,0,0,Normal
+2026-06-09,DMA-01,Sonia Vihar North,31.46,852.45,5.41,100.0,100.0,0,0,0,Normal
+2026-06-09,DMA-02,Sonia Vihar Central,28.77,930.48,5.61,100.0,100.0,0,0,0,Normal
+2026-06-09,DMA-03,Bhagirathi Corridor,27.0,780.59,5.81,100.0,100.0,0,0,0,Normal
+2026-06-09,DMA-04,Yamuna Bank Pocket,24.99,656.47,5.98,100.0,100.0,5,0,0,Warning
+2026-06-09,DMA-05,Wazirabad Link,29.92,718.02,6.2,100.0,100.0,0,0,0,Normal
+2026-06-09,DMA-06,Sangam Extension,31.17,678.39,6.38,100.0,100.0,0,0,0,Normal
+2026-06-10,DMA-01,Sonia Vihar North,32.02,847.03,5.41,100.0,100.0,0,0,0,Normal
+2026-06-10,DMA-02,Sonia Vihar Central,29.14,943.34,5.6,100.0,100.0,0,0,0,Normal
+2026-06-10,DMA-03,Bhagirathi Corridor,26.7,783.75,5.79,100.0,100.0,0,0,0,Normal
+2026-06-10,DMA-04,Yamuna Bank Pocket,24.86,658.74,5.98,100.0,100.0,5,0,0,Warning
+2026-06-10,DMA-05,Wazirabad Link,30.19,716.87,6.2,100.0,100.0,0,0,0,Normal
+2026-06-10,DMA-06,Sangam Extension,30.84,680.61,6.4,100.0,100.0,0,0,0,Normal
+2026-06-11,DMA-01,Sonia Vihar North,32.07,850.99,5.44,100.0,100.0,0,0,0,Normal
+2026-06-11,DMA-02,Sonia Vihar Central,28.66,928.79,5.61,100.0,100.0,0,0,0,Normal
+2026-06-11,DMA-03,Bhagirathi Corridor,27.13,781.35,5.76,100.0,100.0,0,0,0,Normal
+2026-06-11,DMA-04,Yamuna Bank Pocket,25.35,644.02,6.01,100.0,100.0,4,0,0,Warning
+2026-06-11,DMA-05,Wazirabad Link,29.97,721.89,6.21,100.0,100.0,0,0,0,Normal
+2026-06-11,DMA-06,Sangam Extension,31.16,680.44,6.37,100.0,100.0,0,0,0,Normal
+2026-06-12,DMA-01,Sonia Vihar North,32.1,849.91,5.4,100.0,100.0,0,0,0,Normal
+2026-06-12,DMA-02,Sonia Vihar Central,29.01,924.81,5.61,100.0,100.0,0,0,0,Normal
+2026-06-12,DMA-03,Bhagirathi Corridor,27.09,776.46,5.8,100.0,100.0,0,0,0,Normal
+2026-06-12,DMA-04,Yamuna Bank Pocket,25.23,648.76,6.04,100.0,100.0,0,0,0,Normal
+2026-06-12,DMA-05,Wazirabad Link,29.87,720.5,6.2,100.0,100.0,0,0,0,Normal
+2026-06-12,DMA-06,Sangam Extension,30.96,682.27,6.36,100.0,100.0,0,0,0,Normal
+2026-06-13,DMA-01,Sonia Vihar North,32.1,852.86,5.4,100.0,100.0,0,0,0,Normal
+2026-06-13,DMA-02,Sonia Vihar Central,28.98,932.23,5.62,95.8,100.0,1,0,0,Warning
+2026-06-13,DMA-03,Bhagirathi Corridor,27.02,779.3,5.78,100.0,100.0,0,0,0,Normal
+2026-06-13,DMA-04,Yamuna Bank Pocket,25.03,648.97,5.99,100.0,100.0,2,0,0,Warning
+2026-06-13,DMA-05,Wazirabad Link,29.99,711.73,6.2,100.0,100.0,0,0,0,Normal
+2026-06-13,DMA-06,Sangam Extension,31.25,688.59,6.39,95.8,100.0,1,0,0,Warning
+2026-06-14,DMA-01,Sonia Vihar North,32.2,844.06,5.41,100.0,100.0,0,0,0,Normal
+2026-06-14,DMA-02,Sonia Vihar Central,29.21,938.42,5.59,100.0,100.0,0,0,0,Normal
+2026-06-14,DMA-03,Bhagirathi Corridor,26.6,777.69,5.79,100.0,100.0,0,0,0,Normal
+2026-06-14,DMA-04,Yamuna Bank Pocket,24.93,655.89,6.01,100.0,100.0,4,0,0,Warning
+2026-06-14,DMA-05,Wazirabad Link,29.78,716.42,6.22,100.0,100.0,0,0,0,Normal
+2026-06-14,DMA-06,Sangam Extension,31.18,675.0,6.43,100.0,100.0,0,0,0,Normal
+2026-06-15,DMA-01,Sonia Vihar North,32.15,860.46,5.42,100.0,100.0,0,0,0,Normal
+2026-06-15,DMA-02,Sonia Vihar Central,29.01,928.68,5.6,95.8,100.0,1,0,0,Warning
+2026-06-15,DMA-03,Bhagirathi Corridor,26.89,769.94,5.82,100.0,100.0,1,0,0,Warning
+2026-06-15,DMA-04,Yamuna Bank Pocket,24.63,648.9,6.01,100.0,100.0,8,0,0,Warning
+2026-06-15,DMA-05,Wazirabad Link,29.92,724.62,6.19,100.0,100.0,0,0,0,Normal
+2026-06-15,DMA-06,Sangam Extension,30.82,681.84,6.39,100.0,100.0,0,0,0,Normal
+2026-06-16,DMA-01,Sonia Vihar North,31.85,850.25,5.41,100.0,100.0,0,0,0,Normal
+2026-06-16,DMA-02,Sonia Vihar Central,28.93,931.8,5.59,100.0,100.0,0,0,0,Normal
+2026-06-16,DMA-03,Bhagirathi Corridor,27.02,780.8,5.8,91.7,100.0,2,0,0,Warning
+2026-06-16,DMA-04,Yamuna Bank Pocket,24.78,652.3,6.0,100.0,100.0,5,0,0,Warning
+2026-06-16,DMA-05,Wazirabad Link,29.64,715.81,6.2,100.0,100.0,0,0,0,Normal
+2026-06-16,DMA-06,Sangam Extension,31.15,683.02,6.38,100.0,100.0,0,0,0,Normal
+2026-06-17,DMA-01,Sonia Vihar North,31.78,846.68,5.4,100.0,100.0,0,0,0,Normal
+2026-06-17,DMA-02,Sonia Vihar Central,28.71,921.03,5.6,100.0,100.0,0,0,0,Normal
+2026-06-17,DMA-03,Bhagirathi Corridor,26.65,788.32,5.82,100.0,100.0,1,0,0,Warning
+2026-06-17,DMA-04,Yamuna Bank Pocket,25.42,647.93,6.01,100.0,100.0,2,0,0,Warning
+2026-06-17,DMA-05,Wazirabad Link,29.97,717.34,6.2,100.0,100.0,0,0,0,Normal
+2026-06-17,DMA-06,Sangam Extension,31.02,676.32,6.39,100.0,100.0,0,0,0,Normal
+2026-06-18,DMA-01,Sonia Vihar North,32.04,851.05,5.4,100.0,100.0,0,0,0,Normal
+2026-06-18,DMA-02,Sonia Vihar Central,28.95,933.57,5.64,100.0,100.0,0,0,0,Normal
+2026-06-18,DMA-03,Bhagirathi Corridor,27.24,771.52,5.82,100.0,100.0,0,0,0,Normal
+2026-06-18,DMA-04,Yamuna Bank Pocket,25.03,653.02,6.01,100.0,100.0,2,0,0,Warning
+2026-06-18,DMA-05,Wazirabad Link,30.04,712.47,6.21,100.0,100.0,0,0,0,Normal
+2026-06-18,DMA-06,Sangam Extension,31.07,679.66,6.38,100.0,100.0,0,0,0,Normal
+2026-06-19,DMA-01,Sonia Vihar North,32.25,851.69,5.4,100.0,100.0,0,0,0,Normal
+2026-06-19,DMA-02,Sonia Vihar Central,29.14,936.06,5.58,100.0,100.0,0,0,0,Normal
+2026-06-19,DMA-03,Bhagirathi Corridor,27.07,777.29,5.81,100.0,100.0,0,0,0,Normal
+2026-06-19,DMA-04,Yamuna Bank Pocket,24.69,647.74,5.99,100.0,100.0,10,0,0,Warning
+2026-06-19,DMA-05,Wazirabad Link,29.67,725.7,6.2,100.0,100.0,0,0,0,Normal
+2026-06-19,DMA-06,Sangam Extension,30.93,669.79,6.4,100.0,100.0,0,0,0,Normal
+2026-06-20,DMA-01,Sonia Vihar North,31.83,845.39,5.39,100.0,100.0,0,0,0,Normal
+2026-06-20,DMA-02,Sonia Vihar Central,29.04,918.06,5.59,95.8,100.0,1,0,0,Warning
+2026-06-20,DMA-03,Bhagirathi Corridor,27.01,784.86,5.81,100.0,100.0,0,0,0,Normal
+2026-06-20,DMA-04,Yamuna Bank Pocket,25.11,647.13,4.15,100.0,100.0,24,10,0,Critical
+2026-06-20,DMA-05,Wazirabad Link,29.89,719.11,6.18,100.0,100.0,0,0,0,Normal
+2026-06-20,DMA-06,Sangam Extension,31.09,680.41,6.42,100.0,100.0,0,0,0,Normal
+2026-06-21,DMA-01,Sonia Vihar North,31.33,840.06,5.42,100.0,100.0,0,0,0,Normal
+2026-06-21,DMA-02,Sonia Vihar Central,29.0,929.65,5.58,100.0,100.0,0,0,0,Normal
+2026-06-21,DMA-03,Bhagirathi Corridor,27.12,783.92,5.76,100.0,100.0,0,0,0,Normal
+2026-06-21,DMA-04,Yamuna Bank Pocket,25.4,649.05,3.8,100.0,100.0,24,10,0,Critical
+2026-06-21,DMA-05,Wazirabad Link,30.3,724.08,6.18,100.0,100.0,0,0,0,Normal
+2026-06-21,DMA-06,Sangam Extension,31.09,679.87,6.42,100.0,100.0,0,0,0,Normal
+2026-06-22,DMA-01,Sonia Vihar North,31.32,849.47,5.42,100.0,100.0,0,0,0,Normal
+2026-06-22,DMA-02,Sonia Vihar Central,28.68,924.8,5.62,100.0,100.0,0,0,0,Normal
+2026-06-22,DMA-03,Bhagirathi Corridor,26.84,776.51,5.79,100.0,100.0,1,0,0,Warning
+2026-06-22,DMA-04,Yamuna Bank Pocket,25.41,659.05,3.79,100.0,100.0,22,10,0,Critical
+2026-06-22,DMA-05,Wazirabad Link,29.71,720.82,6.19,100.0,100.0,0,0,0,Normal
+2026-06-22,DMA-06,Sangam Extension,30.97,683.29,6.39,100.0,100.0,1,0,0,Warning
+2026-06-23,DMA-01,Sonia Vihar North,31.84,852.77,5.39,100.0,100.0,0,0,0,Normal
+2026-06-23,DMA-02,Sonia Vihar Central,28.95,930.08,5.6,100.0,100.0,0,0,0,Normal
+2026-06-23,DMA-03,Bhagirathi Corridor,27.41,780.33,5.79,100.0,100.0,0,0,0,Normal
+2026-06-23,DMA-04,Yamuna Bank Pocket,25.06,649.56,6.04,100.0,100.0,5,0,0,Warning
+2026-06-23,DMA-05,Wazirabad Link,30.11,718.06,6.17,100.0,100.0,0,0,0,Normal
+2026-06-23,DMA-06,Sangam Extension,30.81,676.96,6.39,100.0,100.0,0,0,0,Normal
+2026-06-24,DMA-01,Sonia Vihar North,31.95,848.77,5.42,100.0,100.0,0,0,0,Normal
+2026-06-24,DMA-02,Sonia Vihar Central,29.22,935.04,5.6,100.0,100.0,0,0,0,Normal
+2026-06-24,DMA-03,Bhagirathi Corridor,27.31,782.63,5.82,100.0,100.0,0,0,0,Normal
+2026-06-24,DMA-04,Yamuna Bank Pocket,25.32,647.86,5.99,95.8,100.0,3,0,0,Warning
+2026-06-24,DMA-05,Wazirabad Link,30.42,711.89,6.23,100.0,100.0,0,0,0,Normal
+2026-06-24,DMA-06,Sangam Extension,30.6,671.27,6.4,100.0,100.0,0,0,0,Normal
+2026-06-25,DMA-01,Sonia Vihar North,31.82,850.47,5.41,100.0,100.0,0,0,0,Normal
+2026-06-25,DMA-02,Sonia Vihar Central,29.13,930.86,5.6,100.0,100.0,0,0,0,Normal
+2026-06-25,DMA-03,Bhagirathi Corridor,26.61,777.73,5.79,100.0,100.0,0,0,0,Normal
+2026-06-25,DMA-04,Yamuna Bank Pocket,24.71,648.65,6.01,100.0,100.0,8,0,0,Warning
+2026-06-25,DMA-05,Wazirabad Link,29.91,717.22,6.18,100.0,100.0,0,0,0,Normal
+2026-06-25,DMA-06,Sangam Extension,31.1,692.17,6.38,100.0,100.0,0,0,0,Normal
+2026-06-26,DMA-01,Sonia Vihar North,31.89,849.35,5.36,95.8,100.0,1,0,0,Warning
+2026-06-26,DMA-02,Sonia Vihar Central,28.97,937.15,5.58,100.0,100.0,0,0,0,Normal
+2026-06-26,DMA-03,Bhagirathi Corridor,26.83,784.19,5.79,100.0,100.0,0,0,0,Normal
+2026-06-26,DMA-04,Yamuna Bank Pocket,24.5,645.95,5.99,100.0,100.0,7,0,0,Warning
+2026-06-26,DMA-05,Wazirabad Link,29.64,718.33,6.21,100.0,100.0,0,0,0,Normal
+2026-06-26,DMA-06,Sangam Extension,31.0,669.58,6.41,100.0,100.0,0,0,0,Normal
+2026-06-27,DMA-01,Sonia Vihar North,31.75,854.95,5.41,100.0,100.0,0,0,0,Normal
+2026-06-27,DMA-02,Sonia Vihar Central,29.04,920.67,5.63,100.0,100.0,0,0,0,Normal
+2026-06-27,DMA-03,Bhagirathi Corridor,27.04,778.9,5.82,100.0,100.0,0,0,0,Normal
+2026-06-27,DMA-04,Yamuna Bank Pocket,24.87,645.81,6.02,95.8,100.0,9,0,0,Warning
+2026-06-27,DMA-05,Wazirabad Link,29.75,717.47,6.21,100.0,100.0,0,0,0,Normal
+2026-06-27,DMA-06,Sangam Extension,31.22,676.71,6.37,100.0,100.0,0,0,0,Normal
+2026-06-28,DMA-01,Sonia Vihar North,31.85,852.85,5.37,100.0,100.0,0,0,0,Normal
+2026-06-28,DMA-02,Sonia Vihar Central,29.09,933.09,5.59,100.0,100.0,0,0,0,Normal
+2026-06-28,DMA-03,Bhagirathi Corridor,26.84,783.52,5.81,100.0,100.0,0,0,0,Normal
+2026-06-28,DMA-04,Yamuna Bank Pocket,25.1,646.8,5.98,100.0,100.0,4,0,0,Warning
+2026-06-28,DMA-05,Wazirabad Link,29.74,723.24,6.18,100.0,100.0,0,0,0,Normal
+2026-06-28,DMA-06,Sangam Extension,30.7,683.06,6.37,100.0,100.0,0,0,0,Normal
+2026-06-29,DMA-01,Sonia Vihar North,32.18,856.75,5.41,100.0,100.0,0,0,0,Normal
+2026-06-29,DMA-02,Sonia Vihar Central,28.89,925.05,5.6,100.0,100.0,0,0,0,Normal
+2026-06-29,DMA-03,Bhagirathi Corridor,27.01,781.05,5.81,100.0,100.0,0,0,0,Normal
+2026-06-29,DMA-04,Yamuna Bank Pocket,24.82,650.54,6.0,100.0,100.0,6,0,0,Warning
+2026-06-29,DMA-05,Wazirabad Link,30.09,719.95,6.19,100.0,100.0,0,0,0,Normal
+2026-06-29,DMA-06,Sangam Extension,31.04,681.64,6.4,100.0,100.0,0,0,0,Normal
+2026-06-30,DMA-01,Sonia Vihar North,31.86,846.76,5.41,100.0,100.0,0,0,0,Normal
+2026-06-30,DMA-02,Sonia Vihar Central,28.77,926.3,5.6,100.0,100.0,0,0,0,Normal
+2026-06-30,DMA-03,Bhagirathi Corridor,26.83,788.54,5.8,100.0,100.0,1,0,0,Warning
+2026-06-30,DMA-04,Yamuna Bank Pocket,25.22,644.11,5.98,100.0,100.0,3,0,0,Warning
+2026-06-30,DMA-05,Wazirabad Link,30.21,722.63,6.21,100.0,100.0,0,0,0,Normal
+2026-06-30,DMA-06,Sangam Extension,31.05,677.11,6.4,95.8,100.0,1,0,0,Warning
+2026-07-01,DMA-01,Sonia Vihar North,32.16,850.39,5.41,100.0,100.0,0,0,0,Normal
+2026-07-01,DMA-02,Sonia Vihar Central,29.2,931.68,5.57,100.0,100.0,0,0,0,Normal
+2026-07-01,DMA-03,Bhagirathi Corridor,27.14,782.74,5.84,100.0,100.0,1,0,0,Warning
+2026-07-01,DMA-04,Yamuna Bank Pocket,25.02,657.62,6.0,100.0,100.0,2,0,0,Warning
+2026-07-01,DMA-05,Wazirabad Link,29.7,714.84,6.2,100.0,100.0,0,0,0,Normal
+2026-07-01,DMA-06,Sangam Extension,31.11,676.79,6.37,100.0,100.0,0,0,0,Normal
+2026-07-02,DMA-01,Sonia Vihar North,31.95,847.12,5.38,100.0,100.0,0,0,0,Normal
+2026-07-02,DMA-02,Sonia Vihar Central,29.11,933.96,5.62,100.0,100.0,0,0,0,Normal
+2026-07-02,DMA-03,Bhagirathi Corridor,27.21,775.63,5.81,95.8,100.0,1,0,0,Warning
+2026-07-02,DMA-04,Yamuna Bank Pocket,25.32,649.55,5.98,100.0,100.0,1,0,0,Warning
+2026-07-02,DMA-05,Wazirabad Link,30.64,720.73,6.19,100.0,100.0,0,0,0,Normal
+2026-07-02,DMA-06,Sangam Extension,31.16,678.15,6.43,100.0,100.0,0,0,0,Normal
+2026-07-03,DMA-01,Sonia Vihar North,31.88,856.62,5.44,100.0,100.0,0,0,0,Normal
+2026-07-03,DMA-02,Sonia Vihar Central,29.01,930.44,5.57,100.0,100.0,0,0,0,Normal
+2026-07-03,DMA-03,Bhagirathi Corridor,26.85,777.21,5.79,100.0,100.0,0,0,0,Normal
+2026-07-03,DMA-04,Yamuna Bank Pocket,24.62,643.26,6.0,100.0,100.0,6,0,0,Warning
+2026-07-03,DMA-05,Wazirabad Link,29.77,719.02,6.22,100.0,100.0,0,0,0,Normal
+2026-07-03,DMA-06,Sangam Extension,31.17,674.02,6.39,100.0,100.0,0,0,0,Normal
+2026-07-04,DMA-01,Sonia Vihar North,32.01,857.02,5.39,100.0,100.0,0,0,0,Normal
+2026-07-04,DMA-02,Sonia Vihar Central,28.96,927.23,5.6,100.0,100.0,0,0,0,Normal
+2026-07-04,DMA-03,Bhagirathi Corridor,27.15,778.08,5.8,100.0,100.0,0,0,0,Normal
+2026-07-04,DMA-04,Yamuna Bank Pocket,25.45,653.4,6.02,100.0,100.0,3,0,0,Warning
+2026-07-04,DMA-05,Wazirabad Link,30.16,723.34,6.18,100.0,100.0,0,0,0,Normal
+2026-07-04,DMA-06,Sangam Extension,30.81,682.43,6.4,100.0,100.0,0,0,0,Normal
+2026-07-05,DMA-01,Sonia Vihar North,31.79,852.33,5.41,100.0,100.0,0,0,0,Normal
+2026-07-05,DMA-02,Sonia Vihar Central,28.78,930.09,5.61,100.0,100.0,0,0,0,Normal
+2026-07-05,DMA-03,Bhagirathi Corridor,27.2,782.71,5.8,100.0,100.0,0,0,0,Normal
+2026-07-05,DMA-04,Yamuna Bank Pocket,24.98,647.8,6.01,100.0,100.0,6,0,0,Warning
+2026-07-05,DMA-05,Wazirabad Link,30.04,710.77,6.17,100.0,100.0,0,0,0,Normal
+2026-07-05,DMA-06,Sangam Extension,31.23,680.58,6.41,100.0,100.0,0,0,0,Normal
+2026-07-06,DMA-01,Sonia Vihar North,32.02,844.42,5.4,100.0,100.0,0,0,0,Normal
+2026-07-06,DMA-02,Sonia Vihar Central,28.98,925.44,5.62,100.0,100.0,0,0,0,Normal
+2026-07-06,DMA-03,Bhagirathi Corridor,26.77,766.79,5.76,100.0,100.0,1,0,0,Warning
+2026-07-06,DMA-04,Yamuna Bank Pocket,24.98,641.89,5.99,100.0,100.0,3,0,0,Warning
+2026-07-06,DMA-05,Wazirabad Link,29.83,718.33,6.21,100.0,100.0,0,0,0,Normal
+2026-07-06,DMA-06,Sangam Extension,30.83,675.55,6.4,100.0,100.0,0,0,0,Normal
+2026-07-07,DMA-01,Sonia Vihar North,32.1,850.15,5.38,100.0,100.0,0,0,0,Normal
+2026-07-07,DMA-02,Sonia Vihar Central,29.11,934.9,5.61,100.0,100.0,0,0,0,Normal
+2026-07-07,DMA-03,Bhagirathi Corridor,26.97,772.19,5.8,100.0,100.0,1,0,0,Warning
+2026-07-07,DMA-04,Yamuna Bank Pocket,25.09,643.03,6.0,100.0,100.0,3,0,0,Warning
+2026-07-07,DMA-05,Wazirabad Link,30.04,719.48,6.21,100.0,100.0,0,0,0,Normal
+2026-07-07,DMA-06,Sangam Extension,31.52,675.16,6.41,100.0,100.0,0,0,0,Normal
+2026-07-08,DMA-01,Sonia Vihar North,32.19,849.15,5.4,100.0,100.0,0,0,0,Normal
+2026-07-08,DMA-02,Sonia Vihar Central,29.22,922.7,5.61,100.0,100.0,0,0,0,Normal
+2026-07-08,DMA-03,Bhagirathi Corridor,26.98,776.82,5.82,100.0,100.0,0,0,0,Normal
+2026-07-08,DMA-04,Yamuna Bank Pocket,24.7,638.93,6.0,100.0,100.0,4,0,0,Warning
+2026-07-08,DMA-05,Wazirabad Link,30.16,718.16,6.2,100.0,100.0,0,0,0,Normal
+2026-07-08,DMA-06,Sangam Extension,31.36,687.25,6.39,100.0,100.0,0,0,0,Normal
+2026-07-09,DMA-01,Sonia Vihar North,32.3,847.04,5.4,100.0,100.0,0,0,0,Normal
+2026-07-09,DMA-02,Sonia Vihar Central,28.87,923.11,5.58,100.0,100.0,0,0,0,Normal
+2026-07-09,DMA-03,Bhagirathi Corridor,27.26,788.75,5.78,100.0,100.0,0,0,0,Normal
+2026-07-09,DMA-04,Yamuna Bank Pocket,25.01,661.45,6.0,100.0,100.0,6,0,0,Warning
+2026-07-09,DMA-05,Wazirabad Link,29.73,721.34,6.22,100.0,100.0,0,0,0,Normal
+2026-07-09,DMA-06,Sangam Extension,31.13,680.04,6.4,100.0,100.0,0,0,0,Normal
+2026-07-10,DMA-01,Sonia Vihar North,32.2,846.43,5.38,100.0,100.0,0,0,0,Normal
+2026-07-10,DMA-02,Sonia Vihar Central,28.68,924.4,5.61,100.0,100.0,0,0,0,Normal
+2026-07-10,DMA-03,Bhagirathi Corridor,26.98,773.02,5.8,100.0,100.0,0,0,0,Normal
+2026-07-10,DMA-04,Yamuna Bank Pocket,25.2,653.85,6.01,100.0,100.0,4,0,0,Warning
+2026-07-10,DMA-05,Wazirabad Link,30.03,720.69,6.22,100.0,100.0,0,0,0,Normal
+2026-07-10,DMA-06,Sangam Extension,31.17,682.58,6.4,100.0,100.0,0,0,0,Normal
+2026-07-11,DMA-01,Sonia Vihar North,32.4,846.45,5.39,100.0,100.0,0,0,0,Normal
+2026-07-11,DMA-02,Sonia Vihar Central,29.19,940.47,5.59,100.0,100.0,0,0,0,Normal
+2026-07-11,DMA-03,Bhagirathi Corridor,27.13,797.38,5.78,100.0,100.0,0,0,0,Normal
+2026-07-11,DMA-04,Yamuna Bank Pocket,25.07,652.34,6.0,100.0,100.0,2,0,0,Warning
+2026-07-11,DMA-05,Wazirabad Link,29.96,715.52,6.19,100.0,100.0,0,0,0,Normal
+2026-07-11,DMA-06,Sangam Extension,30.89,686.58,6.4,100.0,100.0,0,0,0,Normal
+2026-07-12,DMA-01,Sonia Vihar North,31.86,848.46,5.4,100.0,100.0,0,0,0,Normal
+2026-07-12,DMA-02,Sonia Vihar Central,28.58,920.62,5.59,100.0,100.0,0,0,0,Normal
+2026-07-12,DMA-03,Bhagirathi Corridor,20.1,800.11,5.79,100.0,100.0,24,14,0,Critical
+2026-07-12,DMA-04,Yamuna Bank Pocket,24.96,635.06,6.01,100.0,100.0,5,0,0,Warning
+2026-07-12,DMA-05,Wazirabad Link,30.2,721.8,6.21,100.0,100.0,0,0,0,Normal
+2026-07-12,DMA-06,Sangam Extension,31.25,682.58,6.43,100.0,100.0,0,0,0,Normal
+2026-07-13,DMA-01,Sonia Vihar North,32.49,853.3,5.43,100.0,100.0,0,0,0,Normal
+2026-07-13,DMA-02,Sonia Vihar Central,29.06,928.23,5.57,100.0,100.0,0,0,0,Normal
+2026-07-13,DMA-03,Bhagirathi Corridor,19.45,833.74,5.8,100.0,100.0,28,14,0,Critical
+2026-07-13,DMA-04,Yamuna Bank Pocket,25.13,656.95,6.0,100.0,100.0,4,0,0,Warning
+2026-07-13,DMA-05,Wazirabad Link,29.7,712.06,6.18,100.0,100.0,0,0,0,Normal
+2026-07-13,DMA-06,Sangam Extension,31.07,671.07,6.41,100.0,100.0,0,0,0,Normal
+2026-07-14,DMA-01,Sonia Vihar North,31.81,846.81,5.39,100.0,100.0,0,0,0,Normal
+2026-07-14,DMA-02,Sonia Vihar Central,29.18,925.18,5.63,100.0,100.0,0,0,0,Normal
+2026-07-14,DMA-03,Bhagirathi Corridor,19.35,824.54,5.81,100.0,100.0,27,17,0,Critical
+2026-07-14,DMA-04,Yamuna Bank Pocket,25.11,656.76,5.99,100.0,100.0,5,0,0,Warning
+2026-07-14,DMA-05,Wazirabad Link,30.1,713.66,6.18,100.0,100.0,0,0,0,Normal
+2026-07-14,DMA-06,Sangam Extension,31.15,679.02,6.4,100.0,100.0,0,0,0,Normal
+2026-07-15,DMA-01,Sonia Vihar North,31.83,852.63,5.38,100.0,100.0,0,0,0,Normal
+2026-07-15,DMA-02,Sonia Vihar Central,29.14,923.9,5.6,100.0,100.0,0,0,0,Normal
+2026-07-15,DMA-03,Bhagirathi Corridor,19.74,824.1,5.79,100.0,100.0,27,15,0,Critical
+2026-07-15,DMA-04,Yamuna Bank Pocket,24.9,652.46,6.02,95.8,100.0,8,0,0,Warning
+2026-07-15,DMA-05,Wazirabad Link,30.21,712.02,6.19,95.8,100.0,1,0,0,Warning
+2026-07-15,DMA-06,Sangam Extension,31.01,677.78,6.39,100.0,100.0,0,0,0,Normal
+2026-07-16,DMA-01,Sonia Vihar North,32.12,852.65,5.4,100.0,100.0,0,0,0,Normal
+2026-07-16,DMA-02,Sonia Vihar Central,28.95,934.69,5.63,100.0,100.0,0,0,0,Normal
+2026-07-16,DMA-03,Bhagirathi Corridor,19.37,818.08,5.77,100.0,100.0,28,17,0,Critical
+2026-07-16,DMA-04,Yamuna Bank Pocket,25.23,645.41,5.98,100.0,100.0,4,0,0,Warning
+2026-07-16,DMA-05,Wazirabad Link,30.11,716.43,6.23,100.0,100.0,0,0,0,Normal
+2026-07-16,DMA-06,Sangam Extension,30.95,675.91,6.4,100.0,100.0,0,0,0,Normal
+2026-07-17,DMA-01,Sonia Vihar North,32.17,855.72,5.4,100.0,100.0,0,0,0,Normal
+2026-07-17,DMA-02,Sonia Vihar Central,29.16,931.57,5.62,100.0,100.0,0,0,0,Normal
+2026-07-17,DMA-03,Bhagirathi Corridor,19.19,824.15,5.8,100.0,100.0,27,17,0,Critical
+2026-07-17,DMA-04,Yamuna Bank Pocket,24.9,644.37,6.01,100.0,100.0,4,0,0,Warning
+2026-07-17,DMA-05,Wazirabad Link,30.18,720.88,6.2,100.0,100.0,0,0,0,Normal
+2026-07-17,DMA-06,Sangam Extension,30.87,679.03,6.39,100.0,100.0,0,0,0,Normal
+2026-07-18,DMA-01,Sonia Vihar North,31.93,842.94,5.4,100.0,100.0,0,0,0,Normal
+2026-07-18,DMA-02,Sonia Vihar Central,29.16,930.29,5.64,100.0,100.0,0,0,0,Normal
+2026-07-18,DMA-03,Bhagirathi Corridor,19.71,831.81,5.8,100.0,100.0,27,12,0,Critical
+2026-07-18,DMA-04,Yamuna Bank Pocket,25.15,650.42,6.0,100.0,100.0,0,0,0,Normal
+2026-07-18,DMA-05,Wazirabad Link,30.12,725.68,6.18,100.0,100.0,0,0,0,Normal
+2026-07-18,DMA-06,Sangam Extension,31.46,689.79,6.41,100.0,100.0,0,0,0,Normal
+2026-07-19,DMA-01,Sonia Vihar North,31.76,864.35,5.42,100.0,100.0,0,0,0,Normal
+2026-07-19,DMA-02,Sonia Vihar Central,29.04,931.08,5.58,100.0,100.0,0,0,0,Normal
+2026-07-19,DMA-03,Bhagirathi Corridor,19.51,829.62,5.79,100.0,100.0,29,15,0,Critical
+2026-07-19,DMA-04,Yamuna Bank Pocket,24.59,652.6,6.0,100.0,100.0,7,0,0,Warning
+2026-07-19,DMA-05,Wazirabad Link,29.83,714.71,6.22,100.0,100.0,0,0,0,Normal
+2026-07-19,DMA-06,Sangam Extension,31.24,682.82,6.4,100.0,100.0,0,0,0,Normal
+2026-07-20,DMA-01,Sonia Vihar North,32.13,850.48,5.41,100.0,100.0,0,0,0,Normal
+2026-07-20,DMA-02,Sonia Vihar Central,29.24,926.6,5.59,100.0,100.0,0,0,0,Normal
+2026-07-20,DMA-03,Bhagirathi Corridor,19.11,815.82,5.79,100.0,100.0,25,14,0,Critical
+2026-07-20,DMA-04,Yamuna Bank Pocket,25.01,644.82,5.99,100.0,100.0,1,0,0,Warning
+2026-07-20,DMA-05,Wazirabad Link,30.09,720.43,6.2,100.0,100.0,0,0,0,Normal
+2026-07-20,DMA-06,Sangam Extension,31.14,683.59,6.39,100.0,100.0,0,0,0,Normal
+2026-07-21,DMA-01,Sonia Vihar North,31.85,842.79,5.38,100.0,100.0,0,0,0,Normal
+2026-07-21,DMA-02,Sonia Vihar Central,29.22,929.56,5.6,100.0,100.0,0,0,0,Normal
+2026-07-21,DMA-03,Bhagirathi Corridor,19.35,815.1,5.78,95.8,100.0,27,12,0,Critical
+2026-07-21,DMA-04,Yamuna Bank Pocket,25.14,647.06,6.01,100.0,100.0,5,0,0,Warning
+2026-07-21,DMA-05,Wazirabad Link,29.95,718.78,6.21,100.0,100.0,0,0,0,Normal
+2026-07-21,DMA-06,Sangam Extension,31.49,677.29,6.39,100.0,100.0,0,0,0,Normal
+2026-07-22,DMA-01,Sonia Vihar North,31.86,851.48,5.41,100.0,100.0,0,0,0,Normal
+2026-07-22,DMA-02,Sonia Vihar Central,29.01,923.34,5.58,100.0,100.0,0,0,0,Normal
+2026-07-22,DMA-03,Bhagirathi Corridor,19.5,824.15,5.81,100.0,100.0,27,13,0,Critical
+2026-07-22,DMA-04,Yamuna Bank Pocket,25.26,648.69,6.01,100.0,100.0,5,0,0,Warning
+2026-07-22,DMA-05,Wazirabad Link,30.01,726.81,6.19,95.8,100.0,1,0,0,Warning
+2026-07-22,DMA-06,Sangam Extension,30.9,681.46,6.41,100.0,100.0,0,0,0,Normal
+2026-07-23,DMA-01,Sonia Vihar North,31.68,849.63,5.38,100.0,100.0,0,0,0,Normal
+2026-07-23,DMA-02,Sonia Vihar Central,29.03,924.04,5.59,100.0,100.0,0,0,0,Normal
+2026-07-23,DMA-03,Bhagirathi Corridor,19.39,819.59,5.82,100.0,100.0,27,13,0,Critical
+2026-07-23,DMA-04,Yamuna Bank Pocket,25.54,646.7,6.02,100.0,100.0,2,0,0,Warning
+2026-07-23,DMA-05,Wazirabad Link,30.61,715.22,6.18,95.8,100.0,1,0,0,Warning
+2026-07-23,DMA-06,Sangam Extension,30.98,679.72,6.39,100.0,100.0,0,0,0,Normal
+2026-07-24,DMA-01,Sonia Vihar North,31.85,847.34,5.38,100.0,100.0,0,0,0,Normal
+2026-07-24,DMA-02,Sonia Vihar Central,28.98,926.53,5.61,100.0,100.0,0,0,0,Normal
+2026-07-24,DMA-03,Bhagirathi Corridor,19.47,825.5,5.79,100.0,100.0,27,15,0,Critical
+2026-07-24,DMA-04,Yamuna Bank Pocket,25.08,654.75,6.04,100.0,100.0,3,0,0,Warning
+2026-07-24,DMA-05,Wazirabad Link,29.83,718.74,6.24,100.0,100.0,0,0,0,Normal
+2026-07-24,DMA-06,Sangam Extension,30.73,677.77,6.41,100.0,100.0,0,0,0,Normal
+2026-07-25,DMA-01,Sonia Vihar North,32.25,851.61,5.39,100.0,100.0,0,0,0,Normal
+2026-07-25,DMA-02,Sonia Vihar Central,29.08,927.41,5.61,100.0,100.0,0,0,0,Normal
+2026-07-25,DMA-03,Bhagirathi Corridor,19.15,825.45,5.81,100.0,100.0,28,18,0,Critical
+2026-07-25,DMA-04,Yamuna Bank Pocket,25.12,645.5,6.02,100.0,100.0,4,0,0,Warning
+2026-07-25,DMA-05,Wazirabad Link,29.76,716.02,6.19,100.0,100.0,0,0,0,Normal
+2026-07-25,DMA-06,Sangam Extension,31.08,680.16,6.38,100.0,100.0,0,0,0,Normal
+2026-07-26,DMA-01,Sonia Vihar North,32.07,848.01,5.41,100.0,100.0,0,0,0,Normal
+2026-07-26,DMA-02,Sonia Vihar Central,29.16,928.26,5.6,100.0,100.0,0,0,0,Normal
+2026-07-26,DMA-03,Bhagirathi Corridor,26.78,779.04,5.82,100.0,100.0,0,0,0,Normal
+2026-07-26,DMA-04,Yamuna Bank Pocket,24.77,643.94,5.99,95.8,100.0,4,0,0,Warning
+2026-07-26,DMA-05,Wazirabad Link,30.15,719.91,6.2,100.0,100.0,0,0,0,Normal
+2026-07-26,DMA-06,Sangam Extension,31.22,682.52,6.41,100.0,100.0,0,0,0,Normal
+2026-07-27,DMA-01,Sonia Vihar North,32.06,838.77,5.39,100.0,100.0,0,0,0,Normal
+2026-07-27,DMA-02,Sonia Vihar Central,29.17,925.23,5.56,100.0,100.0,0,0,0,Normal
+2026-07-27,DMA-03,Bhagirathi Corridor,26.82,775.56,5.76,100.0,100.0,0,0,0,Normal
+2026-07-27,DMA-04,Yamuna Bank Pocket,25.24,655.3,5.99,100.0,100.0,3,0,0,Warning
+2026-07-27,DMA-05,Wazirabad Link,30.09,718.39,6.18,100.0,100.0,0,0,0,Normal
+2026-07-27,DMA-06,Sangam Extension,30.92,674.31,6.39,100.0,100.0,0,0,0,Normal
+2026-07-28,DMA-01,Sonia Vihar North,31.84,856.15,5.4,100.0,100.0,0,0,0,Normal
+2026-07-28,DMA-02,Sonia Vihar Central,29.2,927.51,5.6,100.0,100.0,0,0,0,Normal
+2026-07-28,DMA-03,Bhagirathi Corridor,26.96,770.52,5.78,100.0,100.0,0,0,0,Normal
+2026-07-28,DMA-04,Yamuna Bank Pocket,24.94,651.18,6.02,100.0,100.0,6,0,0,Warning
+2026-07-28,DMA-05,Wazirabad Link,30.0,727.53,6.2,100.0,100.0,0,0,0,Normal
+2026-07-28,DMA-06,Sangam Extension,30.75,682.64,6.42,100.0,100.0,0,0,0,Normal
+2026-07-29,DMA-01,Sonia Vihar North,32.46,849.57,5.42,100.0,100.0,0,0,0,Normal
+2026-07-29,DMA-02,Sonia Vihar Central,29.37,928.43,5.62,100.0,100.0,0,0,0,Normal
+2026-07-29,DMA-03,Bhagirathi Corridor,27.45,782.51,5.83,100.0,100.0,0,0,0,Normal
+2026-07-29,DMA-04,Yamuna Bank Pocket,24.93,659.34,6.03,100.0,100.0,4,0,0,Warning
+2026-07-29,DMA-05,Wazirabad Link,30.06,721.04,6.2,100.0,100.0,0,0,0,Normal
+2026-07-29,DMA-06,Sangam Extension,31.04,680.23,6.4,100.0,100.0,0,0,0,Normal
+2026-07-30,DMA-01,Sonia Vihar North,31.88,847.22,5.37,100.0,100.0,0,0,0,Normal
+2026-07-30,DMA-02,Sonia Vihar Central,29.35,928.73,5.57,100.0,100.0,0,0,0,Normal
+2026-07-30,DMA-03,Bhagirathi Corridor,27.46,781.84,5.82,100.0,100.0,0,0,0,Normal
+2026-07-30,DMA-04,Yamuna Bank Pocket,24.91,652.17,6.0,100.0,100.0,7,0,0,Warning
+2026-07-30,DMA-05,Wazirabad Link,30.29,722.18,6.18,100.0,100.0,0,0,0,Normal
+2026-07-30,DMA-06,Sangam Extension,30.91,683.05,6.4,100.0,100.0,0,0,0,Normal
+2026-07-31,DMA-01,Sonia Vihar North,32.03,853.98,5.4,100.0,100.0,0,0,0,Normal
+2026-07-31,DMA-02,Sonia Vihar Central,26.42,933.12,5.6,87.5,100.0,10,8,0,Critical
+2026-07-31,DMA-03,Bhagirathi Corridor,26.69,781.42,5.8,100.0,100.0,0,0,0,Normal
+2026-07-31,DMA-04,Yamuna Bank Pocket,24.69,657.57,6.0,100.0,100.0,6,0,0,Warning
+2026-07-31,DMA-05,Wazirabad Link,30.04,719.61,6.18,100.0,100.0,0,0,0,Normal
+2026-07-31,DMA-06,Sangam Extension,31.37,676.54,6.37,100.0,100.0,0,0,0,Normal
+2026-08-01,DMA-01,Sonia Vihar North,31.71,840.82,5.39,100.0,100.0,0,0,0,Normal
+2026-08-01,DMA-02,Sonia Vihar Central,28.63,927.98,5.58,100.0,100.0,0,0,0,Normal
+2026-08-01,DMA-03,Bhagirathi Corridor,27.03,783.85,5.8,100.0,100.0,0,0,0,Normal
+2026-08-01,DMA-04,Yamuna Bank Pocket,25.21,651.71,6.03,100.0,100.0,5,0,0,Warning
+2026-08-01,DMA-05,Wazirabad Link,29.91,716.17,6.2,100.0,100.0,0,0,0,Normal
+2026-08-01,DMA-06,Sangam Extension,31.03,684.65,6.38,100.0,100.0,0,0,0,Normal
+2026-08-02,DMA-01,Sonia Vihar North,31.96,839.49,5.39,95.8,100.0,1,0,0,Warning
+2026-08-02,DMA-02,Sonia Vihar Central,29.21,921.98,5.61,100.0,100.0,0,0,0,Normal
+2026-08-02,DMA-03,Bhagirathi Corridor,27.11,787.21,5.79,100.0,100.0,0,0,0,Normal
+2026-08-02,DMA-04,Yamuna Bank Pocket,25.18,653.01,5.98,100.0,100.0,5,0,0,Warning
+2026-08-02,DMA-05,Wazirabad Link,30.06,722.51,6.19,100.0,100.0,0,0,0,Normal
+2026-08-02,DMA-06,Sangam Extension,31.05,679.35,6.4,100.0,100.0,0,0,0,Normal
+2026-08-03,DMA-01,Sonia Vihar North,31.85,842.42,5.37,100.0,100.0,0,0,0,Normal
+2026-08-03,DMA-02,Sonia Vihar Central,29.18,931.44,5.63,100.0,100.0,0,0,0,Normal
+2026-08-03,DMA-03,Bhagirathi Corridor,26.82,778.41,5.78,95.8,100.0,1,0,0,Warning
+2026-08-03,DMA-04,Yamuna Bank Pocket,25.0,653.11,5.99,100.0,100.0,6,0,0,Warning
+2026-08-03,DMA-05,Wazirabad Link,30.28,745.84,6.21,100.0,100.0,28,24,0,Critical
+2026-08-03,DMA-06,Sangam Extension,30.92,688.45,6.41,100.0,100.0,0,0,0,Normal
+2026-08-04,DMA-01,Sonia Vihar North,32.31,852.09,5.38,100.0,100.0,0,0,0,Normal
+2026-08-04,DMA-02,Sonia Vihar Central,28.62,929.11,5.57,100.0,100.0,0,0,0,Normal
+2026-08-04,DMA-03,Bhagirathi Corridor,26.46,789.61,5.8,100.0,100.0,0,0,0,Normal
+2026-08-04,DMA-04,Yamuna Bank Pocket,24.92,644.76,6.01,100.0,100.0,5,0,0,Warning
+2026-08-04,DMA-05,Wazirabad Link,29.91,762.52,6.2,100.0,100.0,48,40,0,Critical
+2026-08-04,DMA-06,Sangam Extension,30.98,680.23,6.36,100.0,100.0,0,0,0,Normal
+2026-08-05,DMA-01,Sonia Vihar North,32.02,851.01,5.39,100.0,100.0,0,0,0,Normal
+2026-08-05,DMA-02,Sonia Vihar Central,29.25,930.92,5.62,100.0,100.0,0,0,0,Normal
+2026-08-05,DMA-03,Bhagirathi Corridor,26.81,776.15,5.8,100.0,100.0,0,0,0,Normal
+2026-08-05,DMA-04,Yamuna Bank Pocket,25.02,649.13,6.0,100.0,100.0,4,0,0,Warning
+2026-08-05,DMA-05,Wazirabad Link,29.97,768.5,6.18,100.0,100.0,48,39,0,Critical
+2026-08-05,DMA-06,Sangam Extension,31.1,676.24,6.41,100.0,100.0,0,0,0,Normal
+2026-08-06,DMA-01,Sonia Vihar North,32.08,847.19,5.42,100.0,100.0,0,0,0,Normal
+2026-08-06,DMA-02,Sonia Vihar Central,28.77,937.46,5.58,100.0,100.0,0,0,0,Normal
+2026-08-06,DMA-03,Bhagirathi Corridor,27.22,780.92,5.8,100.0,100.0,0,0,0,Normal
+2026-08-06,DMA-04,Yamuna Bank Pocket,25.18,650.93,5.98,100.0,100.0,3,0,0,Warning
+2026-08-06,DMA-05,Wazirabad Link,29.91,759.05,6.17,100.0,100.0,48,41,0,Critical
+2026-08-06,DMA-06,Sangam Extension,31.12,678.63,6.39,100.0,100.0,0,0,0,Normal
+2026-08-07,DMA-01,Sonia Vihar North,32.03,855.41,5.4,100.0,100.0,0,0,0,Normal
+2026-08-07,DMA-02,Sonia Vihar Central,29.04,925.34,5.62,100.0,100.0,0,0,0,Normal
+2026-08-07,DMA-03,Bhagirathi Corridor,27.16,783.46,5.78,100.0,100.0,0,0,0,Normal
+2026-08-07,DMA-04,Yamuna Bank Pocket,25.04,654.92,6.0,100.0,100.0,4,0,0,Warning
+2026-08-07,DMA-05,Wazirabad Link,30.02,763.78,6.22,100.0,100.0,48,40,0,Critical
+2026-08-07,DMA-06,Sangam Extension,30.82,681.79,6.42,100.0,100.0,0,0,0,Normal
+2026-08-08,DMA-01,Sonia Vihar North,31.77,852.83,5.37,100.0,100.0,0,0,0,Normal
+2026-08-08,DMA-02,Sonia Vihar Central,28.97,931.61,5.63,100.0,100.0,0,0,0,Normal
+2026-08-08,DMA-03,Bhagirathi Corridor,27.26,773.82,5.81,100.0,100.0,0,0,0,Normal
+2026-08-08,DMA-04,Yamuna Bank Pocket,24.82,642.97,6.01,100.0,100.0,8,0,0,Warning
+2026-08-08,DMA-05,Wazirabad Link,29.69,760.95,6.19,100.0,100.0,38,36,0,Critical
+2026-08-08,DMA-06,Sangam Extension,31.32,671.61,6.42,100.0,100.0,0,0,0,Normal
+2026-08-09,DMA-01,Sonia Vihar North,31.82,853.17,5.39,100.0,100.0,0,0,0,Normal
+2026-08-09,DMA-02,Sonia Vihar Central,28.68,927.72,5.61,100.0,100.0,0,0,0,Normal
+2026-08-09,DMA-03,Bhagirathi Corridor,26.85,779.85,5.79,100.0,100.0,0,0,0,Normal
+2026-08-09,DMA-04,Yamuna Bank Pocket,24.75,648.79,6.01,100.0,100.0,6,0,0,Warning
+2026-08-09,DMA-05,Wazirabad Link,29.79,715.86,6.16,100.0,100.0,0,0,0,Normal
+2026-08-09,DMA-06,Sangam Extension,31.28,676.41,6.42,100.0,100.0,0,0,0,Normal
+2026-08-10,DMA-01,Sonia Vihar North,32.41,847.49,5.4,100.0,100.0,0,0,0,Normal
+2026-08-10,DMA-02,Sonia Vihar Central,29.02,928.91,5.59,100.0,100.0,0,0,0,Normal
+2026-08-10,DMA-03,Bhagirathi Corridor,26.93,782.28,5.79,100.0,100.0,0,0,0,Normal
+2026-08-10,DMA-04,Yamuna Bank Pocket,25.0,652.62,6.0,100.0,100.0,3,0,0,Warning
+2026-08-10,DMA-05,Wazirabad Link,30.17,709.65,6.19,100.0,100.0,0,0,0,Normal
+2026-08-10,DMA-06,Sangam Extension,31.41,684.51,6.39,100.0,100.0,0,0,0,Normal
+2026-08-11,DMA-01,Sonia Vihar North,32.01,847.48,5.41,100.0,100.0,0,0,0,Normal
+2026-08-11,DMA-02,Sonia Vihar Central,28.66,928.97,5.59,100.0,100.0,0,0,0,Normal
+2026-08-11,DMA-03,Bhagirathi Corridor,27.09,779.34,5.78,100.0,100.0,0,0,0,Normal
+2026-08-11,DMA-04,Yamuna Bank Pocket,25.16,645.69,6.0,95.8,100.0,6,0,0,Warning
+2026-08-11,DMA-05,Wazirabad Link,29.88,725.74,6.2,100.0,100.0,0,0,0,Normal
+2026-08-11,DMA-06,Sangam Extension,30.77,669.09,6.39,100.0,100.0,0,0,0,Normal
+2026-08-12,DMA-01,Sonia Vihar North,32.17,856.71,5.39,100.0,100.0,0,0,0,Normal
+2026-08-12,DMA-02,Sonia Vihar Central,29.12,935.18,5.62,100.0,100.0,0,0,0,Normal
+2026-08-12,DMA-03,Bhagirathi Corridor,27.14,774.4,5.79,100.0,100.0,0,0,0,Normal
+2026-08-12,DMA-04,Yamuna Bank Pocket,24.96,656.87,6.05,100.0,100.0,5,0,0,Warning
+2026-08-12,DMA-05,Wazirabad Link,30.18,715.2,6.19,100.0,100.0,0,0,0,Normal
+2026-08-12,DMA-06,Sangam Extension,31.14,672.51,6.39,100.0,100.0,0,0,0,Normal
+2026-08-13,DMA-01,Sonia Vihar North,32.01,851.66,5.42,100.0,100.0,0,0,0,Normal
+2026-08-13,DMA-02,Sonia Vihar Central,29.11,925.52,5.61,100.0,100.0,0,0,0,Normal
+2026-08-13,DMA-03,Bhagirathi Corridor,26.72,783.7,5.78,100.0,100.0,0,0,0,Normal
+2026-08-13,DMA-04,Yamuna Bank Pocket,24.92,646.9,6.02,100.0,100.0,5,0,0,Warning
+2026-08-13,DMA-05,Wazirabad Link,30.01,719.01,6.21,100.0,100.0,0,0,0,Normal
+2026-08-13,DMA-06,Sangam Extension,31.1,683.24,6.42,100.0,100.0,0,0,0,Normal
+2026-08-14,DMA-01,Sonia Vihar North,31.58,847.87,5.42,100.0,100.0,0,0,0,Normal
+2026-08-14,DMA-02,Sonia Vihar Central,29.04,936.04,5.58,100.0,100.0,0,0,0,Normal
+2026-08-14,DMA-03,Bhagirathi Corridor,27.41,775.98,5.8,100.0,100.0,0,0,0,Normal
+2026-08-14,DMA-04,Yamuna Bank Pocket,25.1,641.63,5.99,100.0,100.0,6,0,0,Warning
+2026-08-14,DMA-05,Wazirabad Link,30.18,727.16,6.2,100.0,100.0,0,0,0,Normal
+2026-08-14,DMA-06,Sangam Extension,31.26,678.88,6.39,95.8,100.0,1,0,0,Warning
+2026-08-15,DMA-01,Sonia Vihar North,32.18,851.84,5.41,100.0,100.0,0,0,0,Normal
+2026-08-15,DMA-02,Sonia Vihar Central,28.99,931.8,5.58,100.0,100.0,0,0,0,Normal
+2026-08-15,DMA-03,Bhagirathi Corridor,27.29,785.11,5.78,100.0,100.0,0,0,0,Normal
+2026-08-15,DMA-04,Yamuna Bank Pocket,24.96,656.79,6.02,100.0,100.0,5,0,0,Warning
+2026-08-15,DMA-05,Wazirabad Link,30.24,720.14,6.19,100.0,100.0,0,0,0,Normal
+2026-08-15,DMA-06,Sangam Extension,31.05,673.02,6.39,100.0,100.0,0,0,0,Normal
+2026-08-16,DMA-01,Sonia Vihar North,32.2,844.96,5.39,100.0,100.0,0,0,0,Normal
+2026-08-16,DMA-02,Sonia Vihar Central,29.41,932.61,5.59,100.0,100.0,0,0,0,Normal
+2026-08-16,DMA-03,Bhagirathi Corridor,27.04,781.44,5.8,100.0,100.0,0,0,0,Normal
+2026-08-16,DMA-04,Yamuna Bank Pocket,25.59,654.98,6.02,100.0,100.0,3,0,0,Warning
+2026-08-16,DMA-05,Wazirabad Link,29.5,709.28,6.2,100.0,100.0,0,0,0,Normal
+2026-08-16,DMA-06,Sangam Extension,,680.83,6.4,100.0,100.0,24,0,24,Warning
+2026-08-17,DMA-01,Sonia Vihar North,32.19,841.39,5.41,100.0,100.0,0,0,0,Normal
+2026-08-17,DMA-02,Sonia Vihar Central,28.74,930.23,5.6,100.0,100.0,0,0,0,Normal
+2026-08-17,DMA-03,Bhagirathi Corridor,27.0,779.19,5.78,95.8,100.0,1,0,0,Warning
+2026-08-17,DMA-04,Yamuna Bank Pocket,25.01,646.42,6.01,100.0,100.0,4,0,0,Warning
+2026-08-17,DMA-05,Wazirabad Link,30.37,729.12,6.22,100.0,100.0,0,0,0,Normal
+2026-08-17,DMA-06,Sangam Extension,,677.67,6.37,100.0,100.0,24,0,24,Warning
+2026-08-18,DMA-01,Sonia Vihar North,32.14,847.68,5.39,100.0,100.0,0,0,0,Normal
+2026-08-18,DMA-02,Sonia Vihar Central,28.72,935.52,5.61,100.0,100.0,0,0,0,Normal
+2026-08-18,DMA-03,Bhagirathi Corridor,26.79,777.89,5.77,100.0,100.0,0,0,0,Normal
+2026-08-18,DMA-04,Yamuna Bank Pocket,25.0,650.21,5.98,100.0,100.0,4,0,0,Warning
+2026-08-18,DMA-05,Wazirabad Link,30.22,719.07,6.21,100.0,100.0,0,0,0,Normal
+2026-08-18,DMA-06,Sangam Extension,,672.4,6.4,100.0,100.0,24,0,24,Warning
+2026-08-19,DMA-01,Sonia Vihar North,32.11,845.86,5.41,100.0,100.0,0,0,0,Normal
+2026-08-19,DMA-02,Sonia Vihar Central,28.92,937.93,5.61,100.0,100.0,0,0,0,Normal
+2026-08-19,DMA-03,Bhagirathi Corridor,26.95,777.13,5.79,100.0,100.0,0,0,0,Normal
+2026-08-19,DMA-04,Yamuna Bank Pocket,24.75,652.73,5.99,100.0,100.0,6,0,0,Warning
+2026-08-19,DMA-05,Wazirabad Link,29.86,717.18,6.21,100.0,100.0,0,0,0,Normal
+2026-08-19,DMA-06,Sangam Extension,30.99,675.29,6.43,100.0,100.0,0,0,0,Normal
+2026-08-20,DMA-01,Sonia Vihar North,31.85,845.44,5.4,100.0,100.0,0,0,0,Normal
+2026-08-20,DMA-02,Sonia Vihar Central,28.71,931.8,5.6,100.0,100.0,0,0,0,Normal
+2026-08-20,DMA-03,Bhagirathi Corridor,27.5,782.76,5.82,100.0,100.0,0,0,0,Normal
+2026-08-20,DMA-04,Yamuna Bank Pocket,24.59,649.62,6.0,100.0,100.0,5,0,0,Warning
+2026-08-20,DMA-05,Wazirabad Link,30.01,719.78,6.21,100.0,100.0,0,0,0,Normal
+2026-08-20,DMA-06,Sangam Extension,30.73,691.24,6.41,100.0,100.0,0,0,0,Normal
+2026-08-21,DMA-01,Sonia Vihar North,31.85,843.1,5.39,100.0,100.0,0,0,0,Normal
+2026-08-21,DMA-02,Sonia Vihar Central,28.58,925.06,5.6,100.0,100.0,0,0,0,Normal
+2026-08-21,DMA-03,Bhagirathi Corridor,27.24,774.61,5.82,100.0,100.0,0,0,0,Normal
+2026-08-21,DMA-04,Yamuna Bank Pocket,25.29,639.37,6.01,100.0,100.0,1,0,0,Warning
+2026-08-21,DMA-05,Wazirabad Link,30.03,718.18,6.21,100.0,100.0,0,0,0,Normal
+2026-08-21,DMA-06,Sangam Extension,30.37,677.9,6.41,100.0,100.0,0,0,0,Normal
+2026-08-22,DMA-01,Sonia Vihar North,32.29,850.07,5.39,100.0,100.0,0,0,0,Normal
+2026-08-22,DMA-02,Sonia Vihar Central,28.9,933.7,5.61,100.0,100.0,0,0,0,Normal
+2026-08-22,DMA-03,Bhagirathi Corridor,26.83,777.5,5.81,100.0,100.0,0,0,0,Normal
+2026-08-22,DMA-04,Yamuna Bank Pocket,25.21,658.7,6.02,100.0,100.0,2,0,0,Warning
+2026-08-22,DMA-05,Wazirabad Link,29.94,722.32,6.18,100.0,100.0,0,0,0,Normal
+2026-08-22,DMA-06,Sangam Extension,30.78,693.85,6.39,100.0,100.0,0,0,0,Normal
+2026-08-23,DMA-01,Sonia Vihar North,31.84,845.71,5.41,100.0,100.0,0,0,0,Normal
+2026-08-23,DMA-02,Sonia Vihar Central,29.01,935.35,5.6,100.0,100.0,0,0,0,Normal
+2026-08-23,DMA-03,Bhagirathi Corridor,26.81,780.87,5.81,100.0,100.0,0,0,0,Normal
+2026-08-23,DMA-04,Yamuna Bank Pocket,25.18,652.6,5.99,100.0,100.0,1,0,0,Warning
+2026-08-23,DMA-05,Wazirabad Link,30.13,716.9,6.19,100.0,100.0,0,0,0,Normal
+2026-08-23,DMA-06,Sangam Extension,31.07,680.13,6.41,100.0,100.0,0,0,0,Normal
+2026-08-24,DMA-01,Sonia Vihar North,31.83,847.68,5.43,100.0,100.0,0,0,0,Normal
+2026-08-24,DMA-02,Sonia Vihar Central,28.73,930.35,5.59,100.0,100.0,0,0,0,Normal
+2026-08-24,DMA-03,Bhagirathi Corridor,26.92,776.82,5.8,100.0,100.0,0,0,0,Normal
+2026-08-24,DMA-04,Yamuna Bank Pocket,24.9,644.61,5.97,100.0,100.0,6,0,0,Warning
+2026-08-24,DMA-05,Wazirabad Link,29.94,708.57,6.22,100.0,100.0,0,0,0,Normal
+2026-08-24,DMA-06,Sangam Extension,30.98,679.38,6.38,100.0,100.0,0,0,0,Normal
+2026-08-25,DMA-01,Sonia Vihar North,31.97,852.26,5.41,100.0,100.0,0,0,0,Normal
+2026-08-25,DMA-02,Sonia Vihar Central,29.07,933.62,5.59,100.0,100.0,0,0,0,Normal
+2026-08-25,DMA-03,Bhagirathi Corridor,26.87,776.18,5.82,100.0,100.0,0,0,0,Normal
+2026-08-25,DMA-04,Yamuna Bank Pocket,24.99,645.28,6.03,95.8,100.0,8,0,0,Warning
+2026-08-25,DMA-05,Wazirabad Link,30.27,717.34,6.18,95.8,100.0,1,0,0,Warning
+2026-08-25,DMA-06,Sangam Extension,30.86,679.66,6.41,100.0,100.0,0,0,0,Normal
+2026-08-26,DMA-01,Sonia Vihar North,31.98,851.26,5.4,100.0,100.0,0,0,0,Normal
+2026-08-26,DMA-02,Sonia Vihar Central,28.67,926.19,5.62,100.0,100.0,0,0,0,Normal
+2026-08-26,DMA-03,Bhagirathi Corridor,27.65,777.91,5.81,100.0,100.0,0,0,0,Normal
+2026-08-26,DMA-04,Yamuna Bank Pocket,24.69,641.21,6.01,100.0,100.0,4,0,0,Warning
+2026-08-26,DMA-05,Wazirabad Link,30.09,710.66,6.19,100.0,100.0,0,0,0,Normal
+2026-08-26,DMA-06,Sangam Extension,30.79,682.5,6.4,95.8,100.0,1,0,0,Warning

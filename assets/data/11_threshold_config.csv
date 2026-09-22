@@ -1,0 +1,9 @@
+Parameter,Unit,Warning_Low,Critical_Low,Warning_High,Critical_High,Widget
+Pressure,mH2O,24,20,,,Network Operations / Leak Detection
+Flow,m3/hr,,,20% above expected,35% above expected,Network Operations / Leak Detection
+Reservoir_Level,m,4.2,3.7,,,Network Operations
+Chlorine,mg/L,0.35,0.2,,,Water Quality Monitoring
+Turbidity,NTU,,,2.5,4.0,Water Quality Monitoring
+pH,pH,6.8,6.5,8.2,8.5,Water Quality Monitoring
+NRW_Percentage,%,,,25,35,NRW Analysis
+FMU_Deviation_Pressure,mH2O,,,3,5,Hydraulic Simulation

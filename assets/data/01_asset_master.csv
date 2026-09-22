@@ -1,0 +1,37 @@
+Asset_ID,Asset_Type,Network_Element_ID,GIS_Feature_ID,Zone_ID,Zone_Name,Latitude,Longitude,Installation_Date,Capacity,Maintenance_Status,Manufacturer,Model_Number,Operating_Range,Associated_Sensor_ID
+PIPE-001,Pipeline,PIPE-001,GIS-PIPE-001,DMA-01,Sonia Vihar North,28.737,77.252,2022-04-01,DN300,Active,Synthetic Demo Asset,DJB-POC-001,mH2O,PT-001
+FM-001,Flowmeter,PIPE-011,GIS-FM-001,DMA-01,Sonia Vihar North,28.739,77.25,2022-04-01,1000 m3/hr,Active,Synthetic Demo Asset,DJB-POC-001,m3/hr,FT-001
+RES-001,Reservoir,RES-001,GIS-RES-001,DMA-01,Sonia Vihar North,28.7355,77.2535,2022-04-01,5 ML,Active,Synthetic Demo Asset,DJB-POC-001,m,LT-001
+PUMP-001,Pump,PUMP-001,GIS-PUMP-001,DMA-01,Sonia Vihar North,28.74,77.253,2022-04-01,45 kW,Active,Synthetic Demo Asset,DJB-POC-001,status,PMP-001
+VALVE-001,Valve,VALVE-001,GIS-VAL-001,DMA-01,Sonia Vihar North,28.735,77.251,2022-04-01,DN250,Active,Synthetic Demo Asset,DJB-POC-001,status,VT-001
+WQS-001,Water_Quality_Sensor,WQS-001,GIS-WQS-001,DMA-01,Sonia Vihar North,28.738,77.255,2022-04-01,,Active,Synthetic Demo Asset,DJB-POC-001,multi,QT-001
+PIPE-002,Pipeline,PIPE-002,GIS-PIPE-002,DMA-02,Sonia Vihar Central,28.725,77.25,2022-04-01,DN300,Active,Synthetic Demo Asset,DJB-POC-001,mH2O,PT-002
+FM-002,Flowmeter,PIPE-012,GIS-FM-002,DMA-02,Sonia Vihar Central,28.727,77.248,2022-04-01,1000 m3/hr,Active,Synthetic Demo Asset,DJB-POC-001,m3/hr,FT-002
+RES-002,Reservoir,RES-002,GIS-RES-002,DMA-02,Sonia Vihar Central,28.7235,77.2515,2022-04-01,5 ML,Active,Synthetic Demo Asset,DJB-POC-001,m,LT-002
+PUMP-002,Pump,PUMP-002,GIS-PUMP-002,DMA-02,Sonia Vihar Central,28.728,77.251,2022-04-01,45 kW,Active,Synthetic Demo Asset,DJB-POC-001,status,PMP-002
+VALVE-002,Valve,VALVE-002,GIS-VAL-002,DMA-02,Sonia Vihar Central,28.723,77.249,2022-04-01,DN250,Active,Synthetic Demo Asset,DJB-POC-001,status,VT-002
+WQS-002,Water_Quality_Sensor,WQS-002,GIS-WQS-002,DMA-02,Sonia Vihar Central,28.726,77.253,2022-04-01,,Active,Synthetic Demo Asset,DJB-POC-001,multi,QT-002
+PIPE-003,Pipeline,PIPE-003,GIS-PIPE-003,DMA-03,Bhagirathi Corridor,28.716,77.266,2022-04-01,DN300,Active,Synthetic Demo Asset,DJB-POC-001,mH2O,PT-003
+FM-003,Flowmeter,PIPE-013,GIS-FM-003,DMA-03,Bhagirathi Corridor,28.718,77.264,2022-04-01,1000 m3/hr,Active,Synthetic Demo Asset,DJB-POC-001,m3/hr,FT-003
+RES-003,Reservoir,RES-003,GIS-RES-003,DMA-03,Bhagirathi Corridor,28.7145,77.2675,2022-04-01,5 ML,Active,Synthetic Demo Asset,DJB-POC-001,m,LT-003
+PUMP-003,Pump,PUMP-003,GIS-PUMP-003,DMA-03,Bhagirathi Corridor,28.719,77.267,2022-04-01,45 kW,Active,Synthetic Demo Asset,DJB-POC-001,status,PMP-003
+VALVE-003,Valve,VALVE-003,GIS-VAL-003,DMA-03,Bhagirathi Corridor,28.714,77.265,2022-04-01,DN250,Active,Synthetic Demo Asset,DJB-POC-001,status,VT-003
+WQS-003,Water_Quality_Sensor,WQS-003,GIS-WQS-003,DMA-03,Bhagirathi Corridor,28.717,77.269,2022-04-01,,Active,Synthetic Demo Asset,DJB-POC-001,multi,QT-003
+PIPE-004,Pipeline,PIPE-004,GIS-PIPE-004,DMA-04,Yamuna Bank Pocket,28.704,77.237,2022-04-01,DN300,Active,Synthetic Demo Asset,DJB-POC-001,mH2O,PT-004
+FM-004,Flowmeter,PIPE-014,GIS-FM-004,DMA-04,Yamuna Bank Pocket,28.706,77.235,2022-04-01,1000 m3/hr,Active,Synthetic Demo Asset,DJB-POC-001,m3/hr,FT-004
+RES-004,Reservoir,RES-004,GIS-RES-004,DMA-04,Yamuna Bank Pocket,28.7025,77.2385,2022-04-01,5 ML,Active,Synthetic Demo Asset,DJB-POC-001,m,LT-004
+PUMP-004,Pump,PUMP-004,GIS-PUMP-004,DMA-04,Yamuna Bank Pocket,28.707,77.238,2022-04-01,45 kW,Active,Synthetic Demo Asset,DJB-POC-001,status,PMP-004
+VALVE-004,Valve,VALVE-004,GIS-VAL-004,DMA-04,Yamuna Bank Pocket,28.702,77.236,2022-04-01,DN250,Active,Synthetic Demo Asset,DJB-POC-001,status,VT-004
+WQS-004,Water_Quality_Sensor,WQS-004,GIS-WQS-004,DMA-04,Yamuna Bank Pocket,28.705,77.24,2022-04-01,,Active,Synthetic Demo Asset,DJB-POC-001,multi,QT-004
+PIPE-005,Pipeline,PIPE-005,GIS-PIPE-005,DMA-05,Wazirabad Link,28.711,77.242,2022-04-01,DN300,Active,Synthetic Demo Asset,DJB-POC-001,mH2O,PT-005
+FM-005,Flowmeter,PIPE-015,GIS-FM-005,DMA-05,Wazirabad Link,28.713,77.24,2022-04-01,1000 m3/hr,Active,Synthetic Demo Asset,DJB-POC-001,m3/hr,FT-005
+RES-005,Reservoir,RES-005,GIS-RES-005,DMA-05,Wazirabad Link,28.7095,77.2435,2022-04-01,5 ML,Active,Synthetic Demo Asset,DJB-POC-001,m,LT-005
+PUMP-005,Pump,PUMP-005,GIS-PUMP-005,DMA-05,Wazirabad Link,28.714,77.243,2022-04-01,45 kW,Active,Synthetic Demo Asset,DJB-POC-001,status,PMP-005
+VALVE-005,Valve,VALVE-005,GIS-VAL-005,DMA-05,Wazirabad Link,28.709,77.241,2022-04-01,DN250,Active,Synthetic Demo Asset,DJB-POC-001,status,VT-005
+WQS-005,Water_Quality_Sensor,WQS-005,GIS-WQS-005,DMA-05,Wazirabad Link,28.712,77.245,2022-04-01,,Active,Synthetic Demo Asset,DJB-POC-001,multi,QT-005
+PIPE-006,Pipeline,PIPE-006,GIS-PIPE-006,DMA-06,Sangam Extension,28.73,77.274,2022-04-01,DN300,Active,Synthetic Demo Asset,DJB-POC-001,mH2O,PT-006
+FM-006,Flowmeter,PIPE-016,GIS-FM-006,DMA-06,Sangam Extension,28.732,77.272,2022-04-01,1000 m3/hr,Active,Synthetic Demo Asset,DJB-POC-001,m3/hr,FT-006
+RES-006,Reservoir,RES-006,GIS-RES-006,DMA-06,Sangam Extension,28.7285,77.2755,2022-04-01,5 ML,Active,Synthetic Demo Asset,DJB-POC-001,m,LT-006
+PUMP-006,Pump,PUMP-006,GIS-PUMP-006,DMA-06,Sangam Extension,28.733,77.275,2022-04-01,45 kW,Active,Synthetic Demo Asset,DJB-POC-001,status,PMP-006
+VALVE-006,Valve,VALVE-006,GIS-VAL-006,DMA-06,Sangam Extension,28.728,77.273,2022-04-01,DN250,Active,Synthetic Demo Asset,DJB-POC-001,status,VT-006
+WQS-006,Water_Quality_Sensor,WQS-006,GIS-WQS-006,DMA-06,Sangam Extension,28.731,77.277,2022-04-01,,Active,Synthetic Demo Asset,DJB-POC-001,multi,QT-006
