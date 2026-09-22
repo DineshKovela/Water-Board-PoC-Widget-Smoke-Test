@@ -1,11 +1,11 @@
 define('Widget/Main', [
     'DS/PlatformAPI/PlatformAPI',
-    'Modules/WidgetManager',
-    'Modules/CityApiV2Manager',
-    'Modules/CsvDataManager',
-    'Modules/SchemaValidator',
-    'Modules/SemanticMappingManager',
-    'Modules/MetricsEngine'
+    'DJB_HydraulicSimulationWidget/Modules/WidgetManager',
+    'DJB_HydraulicSimulationWidget/Modules/CityApiV2Manager',
+    'DJB_HydraulicSimulationWidget/Modules/CsvDataManager',
+    'DJB_HydraulicSimulationWidget/Modules/SchemaValidator',
+    'DJB_HydraulicSimulationWidget/Modules/SemanticMappingManager',
+    'DJB_HydraulicSimulationWidget/Modules/MetricsEngine'
 ], function(PlatformAPI, WidgetManager, CityAPI, CsvData, SchemaValidator, Semantic, Metrics) {
     var CFG = window.DJB_WIDGET_CONFIG || {};
     var state = { data:{}, rows:[], selected:null, log:[], zone:'ALL', from:'2026-05-27', to:'2026-08-26' };
