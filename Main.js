@@ -36,7 +36,7 @@ define('Widget/Main', [
         $('dataStatus').textContent='Loading CSV'; $('dataStatus').className='badge warn';
         console.log(CsvData);
         console.log(CsvData.loadMany);
-        return CsvData.loadMany(files, 'assets/data/').then(function(data){
+        return CsvData.loadMany(files, 'https://water-board-po-c-widget-smoke-test.vercel.app/DJB_HydraulicSimulationWidget/assets/data/').then(function(data){
             state.data=data; if(data['02_semantic_mapping.csv']) Semantic.setRows(data['02_semantic_mapping.csv']);
             var validations = files.map(function(f){ return SchemaValidator.validate(f, data[f]); });
             var bad = validations.filter(function(v){return !v.ok;});
