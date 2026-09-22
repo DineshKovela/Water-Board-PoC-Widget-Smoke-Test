@@ -1,4 +1,4 @@
-define('Modules/CsvDataManager', [], function() {
+define('DJB_HydraulicSimulationWidget/modules/CsvDataManager', [], function() {
     function parseCSV(text) {
         var rows=[], row=[], cur='', q=false;
         for(var i=0;i<text.length;i++){
