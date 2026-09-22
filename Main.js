@@ -1,11 +1,11 @@
 define('Widget/Main', [
     'DS/PlatformAPI/PlatformAPI',
-    'DJB_HydraulicSimulationWidget/modules/WidgetManager',
-    'DJB_HydraulicSimulationWidget/modules/CityApiV2Manager',
-    'DJB_HydraulicSimulationWidget/modules/CsvDataManager',
-    'DJB_HydraulicSimulationWidget/modules/SchemaValidator',
-    'DJB_HydraulicSimulationWidget/modules/SemanticMappingManager',
-    'DJB_HydraulicSimulationWidget/modules/MetricsEngine'
+    'Modules/WidgetManager',
+    'Modules/CityApiV2Manager',
+    'Modules/CsvDataManager',
+    'Modules/SchemaValidator',
+    'Modules/SemanticMappingManager',
+    'Modules/MetricsEngine'
 ], function(PlatformAPI, WidgetManager, CityAPI, CsvData, SchemaValidator, Semantic, Metrics) {
     var CFG = window.DJB_WIDGET_CONFIG || {};
     var state = { data:{}, rows:[], selected:null, log:[], zone:'ALL', from:'2026-05-27', to:'2026-08-26' };
@@ -36,7 +36,7 @@ define('Widget/Main', [
         $('dataStatus').textContent='Loading CSV'; $('dataStatus').className='badge warn';
         console.log(CsvData);
         console.log(CsvData.loadMany);
-        return CsvData.loadMany(files, 'https://water-board-po-c-widget-smoke-test.vercel.app/DJB_HydraulicSimulationWidget/assets/data/').then(function(data){
+        return CsvData.loadMany(files, 'https://water-board-po-c-widget-smoke-test.vercel.app/assets/data/').then(function(data){
             state.data=data; if(data['02_semantic_mapping.csv']) Semantic.setRows(data['02_semantic_mapping.csv']);
             var validations = files.map(function(f){ return SchemaValidator.validate(f, data[f]); });
             var bad = validations.filter(function(v){return !v.ok;});
