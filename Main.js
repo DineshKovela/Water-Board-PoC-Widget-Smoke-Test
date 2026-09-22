@@ -34,6 +34,8 @@ define('Widget/Main', [
     function loadData() {
         var files = CFG.files || [];
         $('dataStatus').textContent='Loading CSV'; $('dataStatus').className='badge warn';
+        console.log(CsvData);
+        console.log(CsvData.loadMany);
         return CsvData.loadMany(files, 'assets/data/').then(function(data){
             state.data=data; if(data['02_semantic_mapping.csv']) Semantic.setRows(data['02_semantic_mapping.csv']);
             var validations = files.map(function(f){ return SchemaValidator.validate(f, data[f]); });
